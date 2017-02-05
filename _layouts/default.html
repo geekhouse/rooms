@@ -9,7 +9,12 @@
 
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
-    <title>{{ site.title | default: site.github.repository_name }} AAA</title>
+    <title>{{ site.title | default: site.github.repository_name }}</title>
+    <style>
+      #project_title{
+        color: #ff0;
+      }
+    </style>
   </head>
 
   <body>
@@ -17,7 +22,7 @@
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
         <header class="inner">
-          <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub BBB</a>
+          <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
 
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
