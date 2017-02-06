@@ -4,7 +4,7 @@
 
 ### 今週のおすすめギークハウス
 
-- <img src="http://sozai.akuseru-design.com/img_new/new018/new018_01.png" alt="image"><a href="https://www.facebook.com/geek.nagoya/">ギークハウス名古屋</a> （<a href="https://twitter.com/setoshi66/status/768373615536447488">Twitter</a>）（2016年オープンしたばかり。住人募集中です）</li>
+- <img src="http://sozai.akuseru-design.com/img_new/new018/new018_01.png" alt="image"><a href="https://www.facebook.com/geek.nagoya/">ギークハウス名古屋</a> （<a href="https://twitter.com/setoshi66/status/768373615536447488">Twitter</a>）（2016年オープンしたばかり。住人募集中です）
 - 		<a href="http://4hacker.github.io/hackerhouse/">ギークハウス新宿</a><img src="http://mb.jorudan.co.jp/os/images/metro2/24mar.gif" alt="丸の内線"><img src="http://mb.jorudan.co.jp/os/images/toei/24shi.gif" alt="都営新宿線"><img src="http://mb.jorudan.co.jp/os/images/toei/24oed.gif" alt="丸の内線"> #ときさば系 “alias hackerhouse” （ドミトリー募集、自転車可、外国人）11月から空き。作業部屋あり。見学可。 <a href="https://twitter.com/tokisaba" title="tokisaba">[ twitter ]</a>
 		<a href="https://www.facebook.com/tokisaba" title="tokisaba">[ facebook ]</a>
 - <img src="http://sozai.akuseru-design.com/img_new/new018/new018_01.png" alt="image"><a href="https://paper.dropbox.com/doc/m3Sz7HwYJGCiURWz9G51Y">ギークハウス千葉大網白里</a> DIY系古民家ギークハウス。2反の畑付き。家賃1万円
@@ -35,7 +35,7 @@
 - <a href="http://t.umblr.com/redirect?z=http%3A%2F%2Fsharehouse.aaron.co.jp%2Fgeekhouse-ochanomizu%2F&amp;t=NDIxMTRhOGExNzQwOTYzZGY0MDg1Y2ZjNWUwZTg2MzA0M2JmMzkyZSxXbEVlS3ZsVg%3D%3D">ギークハウスお茶の水</a>
 		<img src="http://sharehouse.aaron.co.jp/geekhouse-ochanomizu/images/21px-Subway_TokyoMarunouchi.png" alt="東京メトロ 丸ノ内線" width="15px" height="15px"><img src="http://sharehouse.aaron.co.jp/geekhouse-ochanomizu/images/21px-Subway_TokyoChiyoda.png" alt="東京メトロ 千代田線" width="15px" height="15px"><img src="http://sharehouse.aaron.co.jp/geekhouse-ochanomizu/images/21px-Subway_TokyoGinza.png" alt="東京メトロ 銀座線" width="15px" height="15px">[中央線][総武線](個室募集中)(2015年10月オープンリフォーム済綺麗)(JR御茶ノ水駅まで徒歩3分の好立地、秋葉原も徒歩圏内、神田明神1分) <a href="https://twitter.com/aaron_suzuki" title="aaron_suzuki">[ twitter ]</a>
 		<a href="http://t.umblr.com/redirect?z=https%3A%2F%2Fwww.facebook.com%2Fyoshihisa.suzuki.98&amp;t=ODc0ODcxOWE1MzExODNkZGZkMGY1Yjk1YjQzYWU3YTE5N2IzMThkNixXbEVlS3ZsVg%3D%3D" title="yoshihisa.suzuki.98">[ facebook ]</a>
-	</li>
+	
 - <a href="http://t.umblr.com/redirect?z=http%3A%2F%2Fsharehouse.aaron.co.jp%2Fgeekhouse-yushimatenjinmae%2F&amp;t=ZTk3NGUxYzZmNDNlNmY4OWI5NGU4MWM4ZjcwMjk2ZDVhN2I4NDczZixXbEVlS3ZsVg%3D%3D">ギークハウス湯島天神前</a>
 		<img src="http://sharehouse.aaron.co.jp/geekhouse-yushimatenjinmae/images/21px-Subway_TokyoChiyoda.png" alt="東京メトロ 千代田線"><img src="http://sharehouse.aaron.co.jp/geekhouse-yushimatenjinmae/images/21px-Subway_TokyoOedo.png" alt="都営地下鉄 大江戸線"><img src="http://sharehouse.aaron.co.jp/geekhouse-yushimatenjinmae/images/21px-Subway_TokyoMarunouchi.png" alt="東京メトロ 丸ノ内線"><img src="http://sharehouse.aaron.co.jp/geekhouse-yushimatenjinmae/images/21px-Subway_TokyoGinza.png" alt="東京メトロ 銀座線">[山手線][京浜東北線](2014年11月オープンリフォーム済綺麗)(10分以内に6路線6駅あり交通至便、湯島天神1分) <a href="https://twitter.com/aaron_suzuki" title="aaron_suzuki">[ twitter ]</a>
 		<a href="http://t.umblr.com/redirect?z=https%3A%2F%2Fwww.facebook.com%2Fyoshihisa.suzuki.98&amp;t=ODc0ODcxOWE1MzExODNkZGZkMGY1Yjk1YjQzYWU3YTE5N2IzMThkNixXbEVlS3ZsVg%3D%3D" title="yoshihisa.suzuki.98">[ facebook ]</a>
