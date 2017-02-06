@@ -5,7 +5,7 @@
 ## 募集中
 
 ### 今週のおすすめギークハウス
-
+- <a href="https://www.facebook.com/geekura/">ギークハウス倉敷</a> 倉敷駅から自転車で20分の古民家。家賃8000円＋光熱費水道費を頭割で、パーソナルスペースは押し入れ1段半（ドラ○もん方式）。現在の住人は、革職人とライターとエロ漫画家と中型犬一匹です。
 - <a href="https://www.facebook.com/geek.nagoya/">ギークハウス名古屋</a> （<a href="https://twitter.com/setoshi66/status/768373615536447488">Twitter</a>）（2016年オープンしたばかり。住人募集中です）
 - <a href="http://4hacker.github.io/hackerhouse/">ギークハウス新宿</a> #ときさば系 “alias hackerhouse” （ドミトリー募集、自転車可、外国人）11月から空き。作業部屋あり。見学可。 <a href="https://twitter.com/tokisaba" title="tokisaba">[ twitter ]</a> <a href="https://www.facebook.com/tokisaba" title="tokisaba">[ facebook ]</a>
 - <a href="https://paper.dropbox.com/doc/m3Sz7HwYJGCiURWz9G51Y">ギークハウス千葉大網白里</a> DIY系古民家ギークハウス。2反の畑付き。家賃1万円
@@ -22,6 +22,7 @@
 - <a href="http://geektfkj.blogspot.jp/">ギークハウス京都東福寺</a>  ゲーム関係者の集まる和風なギークハウス! 11月オープン! 個室、ドミトリー募集中! 自転車可。外国人可。
 - <a href="http://colish.net/concepts/565">ギークハウス岡山</a>（入居者募集中）（2014年1月オープン）
 - <a href="http://geemani.com/">ギークハウス真庭</a>（入居者募集中）（2016年6月オープン）
+- <a href="https://www.facebook.com/geekura/">ギークハウス倉敷</a> 倉敷駅から自転車で20分の古民家。家賃8000円＋光熱費水道費を頭割で、パーソナルスペースは押し入れ1段半（ドラ○もん方式）。現在の住人は、革職人とライターとエロ漫画家と中型犬一匹です。
 
 
 ### 首都圏
