@@ -19,15 +19,15 @@
 - <a href="http://www.geek-niigata.com/">ギークハウス新潟</a>（入居者募集中）
 - <a href="http://4hacker.github.io/hackerhouse/">ギークハウス信州王滝村</a>
 		#ときさば系 “alias hackerhouse” 2015年12月から。住民募集中。家賃１万円。村の中心にある昭和二年築の古民家。高速ネットあります。
-		<a href="https://twitter.com/tokisaba" title="tokisaba">[ twitter ]</a>
-		<a href="https://www.facebook.com/tokisaba" title="tokisaba">[ facebook ]</a>
--<img src="http://sozai.akuseru-design.com/img_new/new018/new018_01.png" alt="image"><a href="https://www.facebook.com/geek.nagoya/">ギークハウス名古屋</a> <a href="https://twitter.com/setoshi66/status/768373615536447488">Twitter</a> （2016年オープンしたばかり。住人募集中です）
+		<a href="https://twitter.com/tokisaba" title="tokisaba">[ twitter ]</a><a href="https://www.facebook.com/tokisaba" title="tokisaba">[ facebook ]</a>
+- <img src="http://sozai.akuseru-design.com/img_new/new018/new018_01.png" alt="image"><a href="https://www.facebook.com/geek.nagoya/">ギークハウス名古屋</a> <a href="https://twitter.com/setoshi66/status/768373615536447488">Twitter</a> （2016年オープンしたばかり。住人募集中です）
 - <img src="http://sozai.akuseru-design.com/img_new/new018/new018_01.png" alt="image"><a href="http://geektfkj.blogspot.jp/">ギークハウス京都東福寺</a>  ゲーム関係者の集まる和風なギークハウス! 11月オープン! 個室、ドミトリー募集中! 自転車可。外国人可。
 - <a href="http://colish.net/concepts/565">ギークハウス岡山</a>（入居者募集中）（2014年1月オープン）
 - <a href="http://geemani.com/">ギークハウス真庭</a>（入居者募集中）（2016年6月オープン）
 
-###首都圏
-####東東京
+### 首都圏
+#### 東東京
+
 - <a href="http://geekhouse.tumblr.com/post/63796293813/higashiueno">ギークハウス東上野</a> [銀座線][大江戸線][山手線]（男子個室・ドミトリー募集中）上野駅、御徒町駅近くで交通の便良し。
 - <a href="http://t.umblr.com/redirect?z=http%3A%2F%2Fsharehouse.aaron.co.jp%2Fgeekhouse-ochanomizu%2F&amp;t=NDIxMTRhOGExNzQwOTYzZGY0MDg1Y2ZjNWUwZTg2MzA0M2JmMzkyZSxXbEVlS3ZsVg%3D%3D">ギークハウスお茶の水</a>
 		<img src="http://sharehouse.aaron.co.jp/geekhouse-ochanomizu/images/21px-Subway_TokyoMarunouchi.png" alt="東京メトロ 丸ノ内線" width="15px" height="15px"><img src="http://sharehouse.aaron.co.jp/geekhouse-ochanomizu/images/21px-Subway_TokyoChiyoda.png" alt="東京メトロ 千代田線" width="15px" height="15px"><img src="http://sharehouse.aaron.co.jp/geekhouse-ochanomizu/images/21px-Subway_TokyoGinza.png" alt="東京メトロ 銀座線" width="15px" height="15px">[中央線][総武線](個室募集中)(2015年10月オープンリフォーム済綺麗)(JR御茶ノ水駅まで徒歩3分の好立地、秋葉原も徒歩圏内、神田明神1分) <a href="https://twitter.com/aaron_suzuki" title="aaron_suzuki">[ twitter ]</a>
@@ -71,7 +71,7 @@
 - <a href="http://geekhouse-osakaikeda.tumblr.com/">ギークハウス大阪池田</a>（満室）
 - <a href="http://geekhouse.tumblr.com/post/41336302168/okachimachi">ギークハウス御徒町</a> [大江戸線][つくばエクスプレス線][銀座線] （満室）稲荷町駅、新御徒町駅が最寄りです。
 	
-##計画中
+## 計画中
 - ギークハウス沖縄
 - ギークハウス秋川
 
