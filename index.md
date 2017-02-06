@@ -1,6 +1,7 @@
 現在、以下のギークハウスで入居者を募集しています。入居希望、見学希望などの詳細については、各ギークハウスのページからそれぞれのハウスの管理者の方にお問い合わせください。
 
 ## 募集中
+
 ### 今週のおすすめギークハウス
 
 - <img src="http://sozai.akuseru-design.com/img_new/new018/new018_01.png" alt="image"><a href="https://www.facebook.com/geek.nagoya/">ギークハウス名古屋</a> （<a href="https://twitter.com/setoshi66/status/768373615536447488">Twitter</a>）（2016年オープンしたばかり。住人募集中です）</li>
@@ -26,6 +27,7 @@
 - <a href="http://geemani.com/">ギークハウス真庭</a>（入居者募集中）（2016年6月オープン）
 
 ### 首都圏
+
 #### 東東京
 
 - <a href="http://geekhouse.tumblr.com/post/63796293813/higashiueno">ギークハウス東上野</a> [銀座線][大江戸線][山手線]（男子個室・ドミトリー募集中）上野駅、御徒町駅近くで交通の便良し。
