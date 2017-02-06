@@ -71,6 +71,9 @@
 - <a href="http://geekhouse-osakaikeda.tumblr.com/">ギークハウス大阪池田</a>（満室）
 - <a href="http://geekhouse.tumblr.com/post/41336302168/okachimachi">ギークハウス御徒町</a> [大江戸線][つくばエクスプレス線][銀座線] （満室）稲荷町駅、新御徒町駅が最寄りです。
 	
+##計画中
+- ギークハウス沖縄
+- ギークハウス秋川
 
 ## 関連施設
 - <img src="http://sozai.akuseru-design.com/img_new/new018/new018_01.png" alt="image"><a href="http://geekcaravan.hatenablog.com/">ギークキャラバン</a>　移動式ギークハウス・ギークキャラバン。相乗り自由。
