@@ -26,6 +26,7 @@
 - <a href="http://colish.net/concepts/565">ギークハウス岡山</a>（入居者募集中）（2014年1月オープン）
 - <a href="http://geemani.com/">ギークハウス真庭</a>（入居者募集中）（2016年6月オープン）
 
+
 ### 首都圏
 
 #### 東東京
@@ -61,8 +62,8 @@
 - <a href="https://www.facebook.com/geekmrk">ギークハウス新丸子</a> [東急東横線]（男子ドミトリー募集中）（自称日本一起業家輩出を目指すギークハウス）（もくもく作業できるもくもく部屋あり）（最寄り駅は新丸子と武蔵小杉）
 
 #### 千葉
-- <img src="http://sozai.akuseru-design.com/img_new/new018/new018_01.png" alt="image"><a href="https://paper.dropbox.com/doc/m3Sz7HwYJGCiURWz9G51Y">ギークハウス千葉大網白里</a> 
-		DIY系古民家ギークハウス。2反の畑付き。家賃1万円
+- <img src="http://sozai.akuseru-design.com/img_new/new018/new018_01.png" alt="image"><a href="https://paper.dropbox.com/doc/m3Sz7HwYJGCiURWz9G51Y">ギークハウス千葉大網白里</a> DIY系古民家ギークハウス。2反の畑付き。家賃1万円
+
 
 ## 満室
 - <a href="https://tokutokutoku.github.io/">ギークハウス所沢</a> （2015年3月オープン）検索するとでてくるオウムなんとかとは全く関係ないです
@@ -72,10 +73,13 @@
 - <a href="http://geekhouse.tumblr.com/post/110446423029/ogikubo">ギークハウス荻窪</a>（満室）（2015年2月オープン）
 - <a href="http://geekhouse-osakaikeda.tumblr.com/">ギークハウス大阪池田</a>（満室）
 - <a href="http://geekhouse.tumblr.com/post/41336302168/okachimachi">ギークハウス御徒町</a> [大江戸線][つくばエクスプレス線][銀座線] （満室）稲荷町駅、新御徒町駅が最寄りです。
-	
+- ギークハウスZERO
+
+
 ## 計画中
 - ギークハウス沖縄
 - ギークハウス秋川
+
 
 ## 関連施設
 - <img src="http://sozai.akuseru-design.com/img_new/new018/new018_01.png" alt="image"><a href="http://geekcaravan.hatenablog.com/">ギークキャラバン</a>　移動式ギークハウス・ギークキャラバン。相乗り自由。
