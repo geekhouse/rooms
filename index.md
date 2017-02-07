@@ -69,7 +69,6 @@
 
 
 ## 関連施設
-- <a href="http://geekcaravan.hatenablog.com/">ギークキャラバン</a>　移動式ギークハウス・ギークキャラバン。相乗り自由。
 - <a href="http://4hacker.github.io/hackerhouse/">HackerSpace新宿</a>  #ときさば系 （コワーキングメンバー募集）24時間利用可能。ドロップイン500円〜 <a href="https://twitter.com/tokisaba" title="tokisaba"></a> 
 - <a href="http://4hacker.github.io/hackerhouse/">HackerSpace神田秋葉原</a>  #ときさば系 （コワーキングメンバー募集） <a href="https://twitter.com/tokisaba" title="tokisaba">twitter</a>
 - <a href="http://4hacker.github.io/hackerhouse/">HackerCafe新宿</a> #ときさば系 “alias geenius_bar” <a href="https://twitter.com/tokisaba" title="tokisaba"> twitter</a>
