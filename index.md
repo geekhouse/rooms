@@ -5,6 +5,7 @@
 ## 募集中
 
 ### 今週のおすすめギークハウス
+- <a href="https://tokutokutoku.github.io/">ギークハウス所沢</a> （2015年3月オープン）検索するとでてくるオウムなんとかとは全く関係ないです
 - <a href="https://www.facebook.com/geekura/">ギークハウス倉敷</a> 倉敷駅から自転車で20分の古民家。家賃8000円＋光熱費水道費を頭割で、パーソナルスペースは押し入れ1段半（ドラ○もん方式）。現在の住人は、革職人とライターとエロ漫画家と中型犬一匹です。
 - <a href="https://www.facebook.com/geek.nagoya/">ギークハウス名古屋</a> （<a href="https://twitter.com/setoshi66/status/768373615536447488">Twitter</a>）（2016年オープンしたばかり。住人募集中です）
 - <a href="http://4hacker.github.io/hackerhouse/">ギークハウス新宿</a> #ときさば系 “alias hackerhouse” （ドミトリー募集、自転車可、外国人）11月から空き。作業部屋あり。見学可。 <a href="https://twitter.com/tokisaba" title="tokisaba">[ twitter ]</a> <a href="https://www.facebook.com/tokisaba" title="tokisaba">[ facebook ]</a>
@@ -38,6 +39,7 @@
 
 #### 西東京・埼玉
 
+- <a href="https://tokutokutoku.github.io/">ギークハウス所沢</a> （2015年3月オープン）検索するとでてくるオウムなんとかとは全く関係ないです
 - <a href="http://4hacker.github.io/hackerhouse/">ギークハウス新宿四谷</a>（入居者募集中）（2016年8月オープン） #ときさば系 “alias hackerhouse” 7LDK。（男女ドミトリー募集、自転車可、外国人）20畳くらいの広いリビング、バーカウンター、作業部屋あり。日本一オシャレなギークハウスを目指す。<a href="https://twitter.com/tokisaba" title="tokisaba">[ twitter ]</a><a href="https://www.facebook.com/tokisaba" title="tokisaba">[ facebook ]</a>
 - <a href="http://4hacker.github.io/hackerhouse/">ギークハウス新宿２丁目 </a>#ときさば系 “alias hackerhouse” （男女ドミトリー募集、自転車可、外国人）作業部屋あり。見学可。猫います <a href="https://twitter.com/tokisaba" title="tokisaba">[ twitter ]</a> <a href="https://www.facebook.com/tokisaba" title="tokisaba">[ facebook ]</a>
 - <a href="http://geekhouse.tumblr.com/post/113088272124/jiyugaoka">ギークハウス自由ヶ丘</a>[東急大井町線]	（渋谷まで15分）（男女個室募集中）（もくもく部屋（共有作業スペース）もあります）
@@ -54,7 +56,6 @@
 
 
 ## 満室
-- <a href="https://tokutokutoku.github.io/">ギークハウス所沢</a> （2015年3月オープン）検索するとでてくるオウムなんとかとは全く関係ないです
 - <a href="http://goo.gl/G0YedX">ギークハウス中目黒</a> [東横線][山手線] 満室。渋谷、恵比寿、五反田など自転車通勤がしやすい
 - <a href="http://geekhouse.tumblr.com/post/110448107709/ryougoku">ギークハウス両国</a>（満室）（2015年2月オープン）（共用のカフェ風ワークスペース、駐輪場あり）
 - <a href="http://geekhouse.tumblr.com/post/110446423029/ogikubo">ギークハウス荻窪</a>（満室）（2015年2月オープン）
@@ -69,8 +70,7 @@
 
 
 ## 関連施設
-- <a href="http://geekcaravan.hatenablog.com/">ギークキャラバン</a>　移動式ギークハウス・ギークキャラバン。相乗り自由。
-- <a href="http://4hacker.github.io/hackerhouse/">HackerSpace新宿</a>  #ときさば系 （コワーキングメンバー募集）24時間利用可能。ドロップイン500円〜 <a href="https://twitter.com/tokisaba" title="tokisaba"></a>
+- <a href="http://4hacker.github.io/hackerhouse/">HackerSpace新宿</a>  #ときさば系 （コワーキングメンバー募集）24時間利用可能。ドロップイン500円〜 <a href="https://twitter.com/tokisaba" title="tokisaba"></a> 
 - <a href="http://4hacker.github.io/hackerhouse/">HackerSpace神田秋葉原</a>  #ときさば系 （コワーキングメンバー募集） <a href="https://twitter.com/tokisaba" title="tokisaba">twitter</a>
 - <a href="http://4hacker.github.io/hackerhouse/">HackerCafe新宿</a> #ときさば系 “alias geenius_bar” <a href="https://twitter.com/tokisaba" title="tokisaba"> twitter</a>
 - <a href="https://www.facebook.com/GeekOfficeEbisu">ギークオフィス恵比寿</a>
