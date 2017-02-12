@@ -68,14 +68,15 @@
 - ギークハウス沖縄
 - ギークハウス秋川
 
-## 閉鎖
-- <a href="http://geekhouse.tumblr.com/post/113088272124/jiyugaoka">ギークハウス自由ヶ丘</a>[東急大井町線]	（渋谷まで15分）（男女個室募集中）（もくもく部屋（共有作業スペース）もあります）
 
 ## 関連施設
 - <a href="http://4hacker.github.io/hackerhouse/">HackerSpace新宿</a>  #ときさば系 （コワーキングメンバー募集）24時間利用可能。ドロップイン500円〜 <a href="https://twitter.com/tokisaba" title="tokisaba"></a> 
-- <a href="http://4hacker.github.io/hackerhouse/">HackerSpace神田秋葉原</a>  #ときさば系 （コワーキングメンバー募集） <a href="https://twitter.com/tokisaba" title="tokisaba">twitter</a>
-- <a href="http://4hacker.github.io/hackerhouse/">HackerCafe新宿</a> #ときさば系 “alias geenius_bar” <a href="https://twitter.com/tokisaba" title="tokisaba"> twitter</a>
 - <a href="https://www.facebook.com/GeekOfficeEbisu">ギークオフィス恵比寿</a>
 - <a href="http://geekcafe.fow.bz/">ギークカフェ伊勢</a>
 - <a href="http://geeklab-nagano.com/">ギークラボ長野</a>
 - <a href="http://geekdojo.strikingly.com/">ギーク道場倉敷</a>
+
+## 閉鎖
+- <a href="http://geekhouse.tumblr.com/post/113088272124/jiyugaoka">ギークハウス自由ヶ丘</a>[東急大井町線]	（渋谷まで15分）（男女個室募集中）（もくもく部屋（共有作業スペース）もあります）
+- <a href="http://4hacker.github.io/hackerhouse/">HackerSpace神田秋葉原</a>  #ときさば系 （コワーキングメンバー募集） <a href="https://twitter.com/tokisaba" title="tokisaba">twitter</a>
+- <a href="http://4hacker.github.io/hackerhouse/">HackerCafe新宿</a> #ときさば系 “alias geenius_bar” <a href="https://twitter.com/tokisaba" title="tokisaba"> twitter</a>
