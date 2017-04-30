@@ -46,10 +46,6 @@
 - <a href="http://geek-house-yokohama.webnode.jp/">ギークハウス横浜</a> [横浜駅西口から徒歩圏内] （男子ドミトリー募集中）（田舎の実家みたいにくつろげる家＆起業家アジトがコンセプト）
 - <a href="https://www.facebook.com/geekmrk">ギークハウス新丸子</a> [東急東横線]（男子ドミトリー募集中）（自称日本一起業家輩出を目指すギークハウス）（もくもく作業できるもくもく部屋あり）（最寄り駅は新丸子と武蔵小杉）
 
-#### 千葉
-- <a href="https://paper.dropbox.com/doc/m3Sz7HwYJGCiURWz9G51Y">ギークハウス千葉大網白里</a> DIY系古民家ギークハウス。2反の畑付き。家賃1万円
-
-
 ## 満室
 - <a href="http://4hacker.github.io/hackerhouse/">ギークハウス新宿四ツ谷</a>（入居者募集中）（2016年8月オープン） #ときさば系 “alias hackerhouse” 7LDK。（男女ドミトリー募集、自転車可、外国人）20畳くらいの広いリビング、バーカウンター、作業部屋あり。日本一オシャレなギークハウスを目指す。<a href="https://twitter.com/tokisaba" title="tokisaba">[ twitter ]</a><a href="https://www.facebook.com/tokisaba" title="tokisaba">[ facebook ]</a>
 - <a href="https://www.facebook.com/%E3%82%AE%E3%83%BC%E3%82%AF%E3%83%8F%E3%82%A6%E3%82%B9%E5%B2%A9%E6%89%8B%E4%B8%89%E9%99%B8%E5%A4%A7%E8%88%B9%E6%B8%A1-942642695828767/?fref=ts"> ギークハウス岩手三陸大船渡</a> 2015年10月から。住民募集中。家賃１万円。地元の仕事紹介できます。高速ネット、近くにコワーキングスペースあります。
@@ -59,7 +55,7 @@
 - <a href="http://geekhouse-osakaikeda.tumblr.com/">ギークハウス大阪池田</a>（満室）
 - <a href="http://geekhouse.tumblr.com/post/41336302168/okachimachi">ギークハウス御徒町</a> [大江戸線][つくばエクスプレス線][銀座線] （満室）稲荷町駅、新御徒町駅が最寄りです。
 - ギークハウスZERO
-
+- <a href="https://paper.dropbox.com/doc/m3Sz7HwYJGCiURWz9G51Y">ギークハウス千葉大網白里</a> DIY系古民家ギークハウス。2反の畑付き。家賃1万円
 
 ## 計画中
 - ギークハウス沖縄
