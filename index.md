@@ -5,7 +5,6 @@
 ## 募集中
 
 ### 今週のおすすめギークハウス
-- <a href="https://geekhouseakigawa.wixsite.com/akigawa-sharehouse">ギークハウス秋川</a> 2017年2月オープン。東京都あきる野市の自然豊かな秋川の地に新しくオープンしました。
 - <a href="https://www.facebook.com/geekura/">ギークハウス倉敷</a> 倉敷駅から自転車で20分の古民家。家賃8000円＋光熱費水道費を頭割で、パーソナルスペースは押し入れ1段半（ドラ○もん方式）。現在の住人は、革職人とライターとエロ漫画家と中型犬一匹です。
 
 
@@ -39,16 +38,12 @@
 - <a href="http://geemaru.wp.xdomain.jp/"> ギークハウス高円寺</a> 『ギー◯』（2016年3月オープン）♂♀ドミトリー・個室大募集。ソーシャル×IT 一軒家を住人が借りた珍しいシェアハウスです。
 - <a href="https://twitter.com/geehachi">ギークハウス八王子</a>（ドミトリー・個室募集中）（2016年7月オープンン）
 - <a href="https://tokutokutoku.github.io/">ギークハウス所沢</a> （2015年3月オープン）検索するとでてくるオウムなんとかとは全く関係ないです
-- <a href="https://geekhouseakigawa.wixsite.com/akigawa-sharehouse">ギークハウス秋川</a> 2017年2月オープン。東京都あきる野市の自然豊かな秋川の地に新しくオープンしました。
+- <a href="https://geekhouseakigawa.wixsite.com/akigawa-sharehouse">ギークハウス秋川</a> 2017年2月オープン。東京都とは思えない、大自然豊かなあきる野市にあるシェアハウスです。（空室：個室１部屋のみ。性別不問）
 
 #### 神奈川
 - <a href="http://geekmtsm.com">ギークハウス元住吉</a> [東横線元住吉駅から徒歩5分] 男子ドミトリーの入居者募集中。個性的なマンションの最上階。自称日本一きれいなギークハウス。
 - <a href="http://geek-house-yokohama.webnode.jp/">ギークハウス横浜</a> [横浜駅西口から徒歩圏内] （男子ドミトリー募集中）（田舎の実家みたいにくつろげる家＆起業家アジトがコンセプト）
 - <a href="https://www.facebook.com/geekmrk">ギークハウス新丸子</a> [東急東横線]（男子ドミトリー募集中）（自称日本一起業家輩出を目指すギークハウス）（もくもく作業できるもくもく部屋あり）（最寄り駅は新丸子と武蔵小杉）
-
-#### 千葉
-- <a href="https://paper.dropbox.com/doc/m3Sz7HwYJGCiURWz9G51Y">ギークハウス千葉大網白里</a> DIY系古民家ギークハウス。2反の畑付き。家賃1万円
-
 
 ## 満室
 - <a href="http://4hacker.github.io/hackerhouse/">ギークハウス新宿四ツ谷</a>（入居者募集中）（2016年8月オープン） #ときさば系 “alias hackerhouse” 7LDK。（男女ドミトリー募集、自転車可、外国人）20畳くらいの広いリビング、バーカウンター、作業部屋あり。日本一オシャレなギークハウスを目指す。<a href="https://twitter.com/tokisaba" title="tokisaba">[ twitter ]</a><a href="https://www.facebook.com/tokisaba" title="tokisaba">[ facebook ]</a>
@@ -59,11 +54,10 @@
 - <a href="http://geekhouse-osakaikeda.tumblr.com/">ギークハウス大阪池田</a>（満室）
 - <a href="http://geekhouse.tumblr.com/post/41336302168/okachimachi">ギークハウス御徒町</a> [大江戸線][つくばエクスプレス線][銀座線] （満室）稲荷町駅、新御徒町駅が最寄りです。
 - ギークハウスZERO
-
+- <a href="http://geekhouseoami.com/">ギークハウス千葉大網白里</a> DIY系古民家ギークハウス。2反の畑付き。家賃1万円
 
 ## 計画中
 - ギークハウス沖縄
-- ギークハウス秋川
 - ギークハウス越路
 
 ## 関連施設
