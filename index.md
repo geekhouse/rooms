@@ -22,7 +22,7 @@
 - <a href="https://www.facebook.com/geek.nagoya/">ギークハウス名古屋</a> <a href="https://twitter.com/setoshi66/status/768373615536447488">Twitter</a> （2016年オープンしたばかり。住人募集中です）
 - <a href="http://geektfkj.blogspot.jp/">ギークハウス京都東福寺</a>  ゲーム関係者の集まる和風なギークハウス! 11月オープン! 個室、ドミトリー募集中! 自転車可。外国人可。
 - <a href="http://colish.net/concepts/565">ギークハウス岡山</a>（入居者募集中）（2014年1月オープン）
-- <a href="http://geemani.com/">ギークハウス真庭</a>（入居者募集中）（2016年6月オープン）
+- <a href="http://geemani.com/">ギークハウス真庭</a>（入居者募集中！）（2016年6月オープン）
 - <a href="https://www.facebook.com/geekura/">ギークハウス倉敷</a> 倉敷駅から自転車で20分の古民家。家賃8000円＋光熱費水道費を頭割で、パーソナルスペースは押し入れ1段半（ドラ○もん方式）。現在の住人は、革職人とライターとエロ漫画家と中型犬一匹です。
 - <a href="http://geetsuku.github.io/">ギークハウスつくば</a> [つくばエクスプレス線]（入居者募集中）（2015年8月オープン）（ものづくり×サイエンス系シェアハウス）筑波大学近く。
 
@@ -70,7 +70,7 @@
 
 
 ## 関連施設
-- <a href="http://4hacker.github.io/hackerhouse/">HackerSpace新宿</a>  #ときさば系 （コワーキングメンバー募集）24時間利用可能。ドロップイン500円〜 <a href="https://twitter.com/tokisaba" title="tokisaba"></a> 
+- <a href="http://4hacker.github.io/hackerhouse/">HackerSpace新宿</a>  #ときさば系 （コワーキングメンバー募集）24時間利用可能。ドロップイン500円〜 <a href="https://twitter.com/tokisaba" title="tokisaba"></a>
 - <a href="http://4hacker.github.io/hackerhouse/">HackerSpace神田秋葉原</a>  #ときさば系 （コワーキングメンバー募集） <a href="https://twitter.com/tokisaba" title="tokisaba">twitter</a>
 - <a href="http://4hacker.github.io/hackerhouse/">HackerCafe新宿</a> #ときさば系 “alias geenius_bar” <a href="https://twitter.com/tokisaba" title="tokisaba"> twitter</a>
 - <a href="https://www.facebook.com/GeekOfficeEbisu">ギークオフィス恵比寿</a>
