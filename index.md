@@ -27,10 +27,10 @@
 #### 東東京
 
 - <a href="http://geekhouse.tumblr.com/post/63796293813/higashiueno">ギークハウス東上野</a> [銀座線][大江戸線][山手線]（男子個室・ドミトリー募集中）上野駅、御徒町駅近くで交通の便良し。
-- <a href="http://t.umblr.com/redirect?z=http%3A%2F%2Fsharehouse.aaron.co.jp%2Fgeekhouse-ochanomizu%2F&amp;t=NDIxMTRhOGExNzQwOTYzZGY0MDg1Y2ZjNWUwZTg2MzA0M2JmMzkyZSxXbEVlS3ZsVg%3D%3D">ギークハウスお茶の水</a> [中央線][総武線](個室募集中)(2015年10月オープンリフォーム済綺麗)(JR御茶ノ水駅まで徒歩3分の好立地、秋葉原も徒歩圏内、神田明神1分) <a href="https://twitter.com/aaron_suzuki" title="aaron_suzuki">[ twitter ]</a> <a href="http://t.umblr.com/redirect?z=https%3A%2F%2Fwww.facebook.com%2Fyoshihisa.suzuki.98&amp;t=ODc0ODcxOWE1MzExODNkZGZkMGY1Yjk1YjQzYWU3YTE5N2IzMThkNixXbEVlS3ZsVg%3D%3D" title="yoshihisa.suzuki.98">[ facebook ]</a>
+- <a href="https://sharehouse.aaron.co.jp/geekhouse-ochanomizu">ギークハウスお茶の水</a> [中央線][総武線](個室募集中)(2015年10月オープンリフォーム済綺麗)(JR御茶ノ水駅まで徒歩3分の好立地、秋葉原も徒歩圏内、神田明神1分) <a href="https://twitter.com/aaron_suzuki" title="aaron_suzuki">[ twitter ]</a> <a href="https://www.facebook.com/yoshihisa.suzuki.98" title="yoshihisa.suzuki.98">[ facebook ]</a>
 
-- <a href="http://t.umblr.com/redirect?z=http%3A%2F%2Fsharehouse.aaron.co.jp%2Fgeekhouse-yushimatenjinmae%2F&amp;t=ZTk3NGUxYzZmNDNlNmY4OWI5NGU4MWM4ZjcwMjk2ZDVhN2I4NDczZixXbEVlS3ZsVg%3D%3D">ギークハウス湯島天神前</a>
-		[山手線][京浜東北線](2014年11月オープンリフォーム済綺麗)(10分以内に6路線6駅あり交通至便、湯島天神1分) <a href="https://twitter.com/aaron_suzuki" title="aaron_suzuki">[ twitter ]</a> <a href="http://t.umblr.com/redirect?z=https%3A%2F%2Fwww.facebook.com%2Fyoshihisa.suzuki.98&amp;t=ODc0ODcxOWE1MzExODNkZGZkMGY1Yjk1YjQzYWU3YTE5N2IzMThkNixXbEVlS3ZsVg%3D%3D" title="yoshihisa.suzuki.98">[ facebook ]</a>
+- <a href="https://sharehouse.aaron.co.jp/geekhouse-yushimatenjinmae">ギークハウス湯島天神前</a>
+		[山手線][京浜東北線](2014年11月オープンリフォーム済綺麗)(10分以内に6路線6駅あり交通至便、湯島天神1分) <a href="https://twitter.com/aaron_suzuki" title="aaron_suzuki">[ twitter ]</a> <a href="https://www.facebook.com/yoshihisa.suzuki.98" title="yoshihisa.suzuki.98">[ facebook ]</a>
 
 #### 西東京・埼玉
 
