@@ -47,7 +47,6 @@
 - <a href="http://geemaru.wp.xdomain.jp/"> ギークハウス高円寺</a> 『ギー◯』（2016年3月オープン）♂♀ドミトリー・個室大募集。ソーシャル×IT 一軒家を住人が借りた珍しいシェアハウスです。
 - <a href="https://twitter.com/geehachi">ギークハウス八王子</a>（ドミトリー・個室募集中）（2016年7月オープンン）
 - <a href="https://tokutokutoku.github.io/">ギークハウス所沢</a> （2015年3月オープン）検索するとでてくるオウムなんとかとは全く関係ないです
-- <a href="https://geekhouseakigawa.wixsite.com/akigawa-sharehouse">ギークハウス秋川</a> 2017年2月オープン。東京都とは思えない、大自然豊かなあきる野市にあるシェアハウスです。（空室：個室１部屋のみ。性別不問）
 
 #### 神奈川
 - <a href="http://geekmtsm.com">ギークハウス元住吉</a> [東横線元住吉駅から徒歩5分] 男子ドミトリーの入居者募集中。個性的なマンションの最上階。自称日本一きれいなギークハウス。
@@ -62,6 +61,7 @@
 - <a href="http://geekhouse.tumblr.com/post/41336302168/okachimachi">ギークハウス御徒町</a> [大江戸線][つくばエクスプレス線][銀座線] （満室）稲荷町駅、新御徒町駅が最寄りです。
 - ギークハウスZERO
 - <a href="http://geekhouseoami.com/">ギークハウス千葉大網白里</a> DIY系古民家ギークハウス。2反の畑付き。家賃1万円
+- <a href="https://geekhouseakigawa.wixsite.com/akigawa-sharehouse">ギークハウス秋川</a> 東京都とは思えない、大自然豊かな場所にあるシェアハウスです。
 
 ## 計画中
 - ギークハウス島根松江
