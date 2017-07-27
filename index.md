@@ -5,12 +5,15 @@
 ## 募集中
 
 ### 今週のおすすめギークハウス
+
+- <a href="http://blog.geekhouse.okinawa/join">ギークハウス沖縄</a> （入居者募集中）ギークハウス沖縄（入居者募集中）沖縄県沖縄市。リノベーション/DIYのギークハウス。沖縄最速のインターネットあり/家賃3万円
 - <a href="https://www.facebook.com/geekura/">ギークハウス倉敷</a> 倉敷駅から自転車で20分の古民家。家賃8000円＋光熱費水道費を頭割で、パーソナルスペースは押し入れ1段半（ドラ○もん方式）。現在の住人は、革職人とライターとエロ漫画家と中型犬一匹です。
 
 ### 首都圏外
 #### 東日本
 
 - <a href="https://www.facebook.com/geebari?__mref=message_bubble">ギークハウス＠夕張</a>（入居者募集中）（2016年7月オープン）日本最北端のギークハウス。夏は夕張メロン、冬は長芋、温泉多数、スキー場10分。
+- <a href="https://www.facebook.com/%E3%82%AE%E3%83%BC%E3%82%AF%E3%83%8F%E3%82%A6%E3%82%B9%E5%B2%A9%E6%89%8B%E4%B8%89%E9%99%B8%E5%A4%A7%E8%88%B9%E6%B8%A1-942642695828767/?fref=ts"> ギークハウス岩手三陸大船渡</a> 2015年10月から。住民募集中。家賃１万円。地元の仕事紹介できます。高速ネット、近くにコワーキングスペースあります。
 - <a href="http://www.geek-niigata.com/">ギークハウス新潟</a>（入居者募集中）新潟市東区のギークハウス。家賃1万円から。
 - <a href="http://geek-koshiji.com/">ギークハウス越路</a>（入居者募集中）長岡市越路地域の古民家シェアハウス。家賃は個室で1万円から。
 - <a href="http://4hacker.github.io/hackerhouse/">ギークハウス信州王滝村</a> #ときさば系 “alias hackerhouse” 2015年12月から。住民募集中。家賃１万円。村の中心にある昭和二年築の古民家。高速ネットあります。<a href="https://twitter.com/tokisaba" title="tokisaba">[ twitter ]</a><a href="https://www.facebook.com/tokisaba" title="tokisaba">[ facebook ]</a>
@@ -20,7 +23,7 @@
 - <a href="https://www.facebook.com/geek.nagoya/">ギークハウス名古屋</a> <a href="https://twitter.com/setoshi66/status/768373615536447488">Twitter</a> （2016年オープンしたばかり。住人募集中です）
 - <a href="http://geektfkj.blogspot.jp/">ギークハウス京都東福寺</a>  ゲーム関係者の集まる和風なギークハウス! 11月オープン! 個室、ドミトリー募集中! 自転車可。外国人可。
 - <a href="http://geetsuku.github.io/">ギークハウスつくば</a> [つくばエクスプレス線]（入居者募集中）（2015年8月オープン）（ものづくり×サイエンス系シェアハウス）筑波大学近く。
-- <a href="https://www.facebook.com/%E3%82%AE%E3%83%BC%E3%82%AF%E3%83%8F%E3%82%A6%E3%82%B9%E5%B2%A9%E6%89%8B%E4%B8%89%E9%99%B8%E5%A4%A7%E8%88%B9%E6%B8%A1-942642695828767/?fref=ts"> ギークハウス岩手三陸大船渡</a> 2015年10月から。住民募集中。家賃１万円。地元の仕事紹介できます。高速ネット、近くにコワーキングスペースあります。
+- <a href="http://blog.geekhouse.okinawa/join">ギークハウス沖縄</a> （入居者募集中）ギークハウス沖縄（入居者募集中）沖縄県沖縄市。リノベーション/DIYのギークハウス。沖縄最速のインターネットあり/家賃3万円
 
 #### 岡山
 
@@ -69,7 +72,6 @@
 - ギークハウス岡山新見
 - ギークハウス広島福山
 - ギークハウス福岡
-- ギークハウス沖縄
 
 ## 関連施設
 - <a href="http://4hacker.github.io/hackerhouse/">HackerSpace新宿</a>  #ときさば系 （コワーキングメンバー募集）24時間利用可能。ドロップイン500円〜 <a href="https://twitter.com/tokisaba" title="tokisaba"></a> 
