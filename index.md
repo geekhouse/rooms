@@ -8,6 +8,7 @@
 
 - <a href="http://blog.geekhouse.okinawa/join">ギークハウス沖縄</a> （入居者募集中）ギークハウス沖縄（入居者募集中）沖縄県沖縄市。リノベーション/DIYのギークハウス。沖縄最速のインターネットあり/家賃3万円
 - <a href="https://www.facebook.com/geekura/">ギークハウス倉敷</a> 倉敷駅から自転車で20分の古民家。家賃8000円＋光熱費水道費を頭割で、パーソナルスペースは押し入れ1段半（ドラ○もん方式）。現在の住人は、革職人とライターとエロ漫画家と中型犬一匹です。
+- <a href="http://www.sharespacesola.com/posts/2601811">ギークハウス箕輪@長野</a> 段々と時代から取り残されていく農村を、新しい発想と技術で再発明し、これまでとは違う楽しい農村での暮らし方を作っていきたいと思っています。
 
 ### 首都圏外
 #### 東日本
@@ -17,6 +18,7 @@
 - <a href="http://www.geek-niigata.com/">ギークハウス新潟</a>（入居者募集中）新潟市東区のギークハウス。家賃1万円から。
 - <a href="http://geek-koshiji.com/">ギークハウス越路</a>（入居者募集中）長岡市越路地域の古民家シェアハウス。家賃は個室で1万円から。
 - <a href="http://4hacker.github.io/hackerhouse/">ギークハウス信州王滝村</a> #ときさば系 “alias hackerhouse” 2015年12月から。住民募集中。家賃１万円。村の中心にある昭和二年築の古民家。高速ネットあります。<a href="https://twitter.com/tokisaba" title="tokisaba">[ twitter ]</a><a href="https://www.facebook.com/tokisaba" title="tokisaba">[ facebook ]</a>
+- <a href="http://www.sharespacesola.com/posts/2601811">ギークハウス箕輪@長野</a> 段々と時代から取り残されていく農村を、新しい発想と技術で再発明し、これまでとは違う楽しい農村での暮らし方を作っていきたいと思っています。
 
 #### 西日本（岡山以外）
 
