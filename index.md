@@ -18,6 +18,7 @@
 - <a href="http://www.geek-niigata.com/">ギークハウス新潟</a>（入居者募集中）新潟市東区のギークハウス。家賃1万円から。
 - <a href="http://geek-koshiji.com/">ギークハウス越路</a>（入居者募集中）長岡市越路地域の古民家シェアハウス。家賃は個室で1万円から。
 - <a href="http://4hacker.github.io/hackerhouse/">ギークハウス信州王滝村</a> #ときさば系 “alias hackerhouse” 2015年12月から。住民募集中。家賃１万円。村の中心にある昭和二年築の古民家。高速ネットあります。<a href="https://twitter.com/tokisaba" title="tokisaba">[ twitter ]</a><a href="https://www.facebook.com/tokisaba" title="tokisaba">[ facebook ]</a>
+- <a href="http://www.sharespacesola.com/posts/2601811">ギークハウス箕輪@長野</a> 段々と時代から取り残されていく農村を、新しい発想と技術で再発明し、これまでとは違う楽しい農村での暮らし方を作っていきたいと思っています。
 
 #### 西日本（岡山以外）
 
