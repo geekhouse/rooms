@@ -45,7 +45,6 @@
 
 #### 西東京・埼玉
 - <a href="http://goo.gl/G0YedX">ギークハウス中目黒</a> [東横線][山手線] ギークハウス中目黒。定員５名で現在ドミトリー２名募集です！渋谷、恵比寿、五反田など自転車通勤がしやすい
-- <a href="http://4hacker.github.io/hackerhouse/">ギークハウス新宿</a> #ときさば系 “alias hackerhouse” （男女ドミトリー募集、自転車可、外国人、）空きあり。作業部屋あり。見学可。 <a href="https://twitter.com/tokisaba" title="tokisaba">[ twitter ]</a> <a href="https://www.facebook.com/tokisaba" title="tokisaba">[ facebook ]</a>
 - <a href="http://4hacker.github.io/hackerhouse/">ギークハウス新宿２丁目 </a>#ときさば系 “alias hackerhouse” （男女ドミトリー募集、自転車可、外国人）作業部屋あり。見学可。猫います <a href="https://twitter.com/tokisaba" title="tokisaba">[ twitter ]</a> <a href="https://www.facebook.com/tokisaba" title="tokisaba">[ facebook ]</a>
 - <a href="http://4hacker.github.io/hackerhouse/">ギークハウス新宿四ツ谷</a>（入居者募集中）（2016年8月オープン） #ときさば系 “alias hackerhouse” 7LDK。（男女ドミトリー募集、自転車可、外国人）20畳くらいの広いリビング、バーカウンター、作業部屋あり。日本一オシャレなギークハウスを目指す。<a href="https://twitter.com/tokisaba" title="tokisaba">[ twitter ]</a><a href="https://www.facebook.com/tokisaba" title="tokisaba">[ facebook ]</a>
 - <a href="http://geemaru.wp.xdomain.jp/"> ギークハウス高円寺</a> 『ギー◯』（2016年3月オープン）♂♀ドミトリー・個室大募集。ソーシャル×IT 一軒家を住人が借りた珍しいシェアハウスです。
@@ -65,6 +64,7 @@
 - ギークハウスZERO
 - <a href="http://geekhouseoami.com/">ギークハウス千葉大網白里</a> DIY系古民家ギークハウス。2反の畑付き。家賃1万円
 - <a href="https://geekhouseakigawa.wixsite.com/akigawa-sharehouse">ギークハウス秋川</a> 東京都とは思えない、大自然豊かな場所にあるシェアハウスです。
+- <a href="http://4hacker.github.io/hackerhouse/">ギークハウス新宿</a> #ときさば系 “alias hackerhouse” （男女ドミトリー募集、自転車可、外国人、）満室。作業部屋あり。 <a href="https://twitter.com/tokisaba" title="tokisaba">[ twitter ]</a> <a href="https://www.facebook.com/tokisaba" title="tokisaba">[ facebook ]</a>
 
 ## 計画中
 - ギークハウス島根松江
