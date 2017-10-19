@@ -14,7 +14,7 @@
 #### 東日本
 
 - <a href="https://www.facebook.com/geebari?__mref=message_bubble">ギークハウス＠夕張</a>（入居者募集中）（2016年7月オープン）日本最北端のギークハウス。夏は夕張メロン、冬は長芋、温泉多数、スキー場10分。
-- <a href="https://www.geefunato.com"> ギークハウス岩手三陸大船渡</a>（入居者募集中）（2015年10月オープン）岩手県大船渡市。家賃１万円。地元の仕事紹介できます。高速ネット、無料コワーキングスペース、畑。柴犬います。
+- <a href="http://www.geefunato.com"> ギークハウス岩手三陸大船渡</a>（入居者募集中）（2015年10月オープン）岩手県大船渡市。家賃１万円。地元の仕事紹介できます。高速ネット、無料コワーキングスペース、畑。柴犬います。
 - <a href="http://www.geek-niigata.com/">ギークハウス新潟</a>（入居者募集中）新潟市東区のギークハウス。家賃1万円から。
 - <a href="http://geek-koshiji.com/">ギークハウス越路</a>（入居者募集中）長岡市越路地域の古民家シェアハウス。家賃は個室で1万円から。
 - <a href="http://4hacker.github.io/hackerhouse/">ギークハウス信州王滝村</a> #ときさば系 “alias hackerhouse” 2015年12月から。住民募集中。家賃１万円。村の中心にある昭和二年築の古民家。高速ネットあります。<a href="https://twitter.com/tokisaba" title="tokisaba">[ twitter ]</a><a href="https://www.facebook.com/tokisaba" title="tokisaba">[ facebook ]</a>
