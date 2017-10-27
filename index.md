@@ -23,7 +23,6 @@
 #### 西日本（岡山以外）
 
 - <a href="https://www.facebook.com/geek.nagoya/">ギークハウス名古屋</a> <a href="https://twitter.com/setoshi66/status/768373615536447488">Twitter</a> （2016年オープンしたばかり。住人募集中です）
-- <a href="http://geektfkj.blogspot.jp/">ギークハウス京都東福寺</a>  ゲーム関係者の集まる和風なギークハウス! 11月オープン! 個室、ドミトリー募集中! 自転車可。外国人可。
 - <a href="http://geetsuku.github.io/">ギークハウスつくば</a> [つくばエクスプレス線]（入居者募集中）（2015年8月オープン）（ものづくり×サイエンス系シェアハウス）筑波大学近く。
 - <a href="http://blog.geekhouse.okinawa/join">ギークハウス沖縄</a> （入居者募集中）ギークハウス沖縄（入居者募集中）沖縄県沖縄市。リノベーション/DIYのギークハウス。沖縄最速のインターネットあり/家賃3万円
 
@@ -67,6 +66,8 @@
 - <a href="https://geekhouseakigawa.wixsite.com/akigawa-sharehouse">ギークハウス秋川</a> 東京都とは思えない、大自然豊かな場所にあるシェアハウスです。
 - <a href="http://4hacker.github.io/hackerhouse/">ギークハウス新宿</a> #ときさば系 “alias hackerhouse” （男女ドミトリー募集、自転車可、外国人、）満室。作業部屋あり。 <a href="https://twitter.com/tokisaba" title="tokisaba">[ twitter ]</a> <a href="https://www.facebook.com/tokisaba" title="tokisaba">[ facebook ]</a>
 - <a href="http://4hacker.github.io/hackerhouse/">ギークハウス新宿四ツ谷</a>（入居者募集中）（2016年8月オープン） #ときさば系 “alias hackerhouse” 7LDK。（男女ドミトリー募集、自転車可、外国人）20畳くらいの広いリビング、バーカウンター、作業部屋あり。日本一オシャレなギークハウスを目指す。<a href="https://twitter.com/tokisaba" title="tokisaba">[ twitter ]</a><a href="https://www.facebook.com/tokisaba" title="tokisaba">[ facebook ]</a>
+- <a href="http://geektfkj.blogspot.jp/">ギークハウス京都東福寺</a>  ゲーム関係者の集まる和風なギークハウス!たぶん西日本一綺麗!現在過半数が外国人。
+
 
 ## 計画中
 - ギークハウス島根松江
