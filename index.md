@@ -55,9 +55,6 @@
 - <a href="http://geek-house-yokohama.webnode.jp/">ギークハウス横浜</a> [横浜駅西口から徒歩圏内] （男子ドミトリー募集中）（田舎の実家みたいにくつろげる家＆起業家アジトがコンセプト）
 - <a href="https://www.facebook.com/geekmrk">ギークハウス新丸子</a> [東急東横線]（男子ドミトリー募集中）（自称日本一起業家輩出を目指すギークハウス）（もくもく作業できるもくもく部屋あり）（最寄り駅は新丸子と武蔵小杉）
 
-### 千葉
-- <a href="http://geekhouseoami.com/">ギークハウス千葉大網白里</a> DIY系古民家ギークハウス。2反の畑付き。
-
 ## 満室
 - <a href="http://geekhouse.tumblr.com/post/110448107709/ryougoku">ギークハウス両国</a>（満室）（2015年2月オープン）（共用のカフェ風ワークスペース、駐輪場あり）
 - <a href="http://geekhouse.tumblr.com/post/110446423029/ogikubo">ギークハウス荻窪</a>（満室）（2015年2月オープン）
@@ -78,7 +75,7 @@
 - ギークハウス福岡
 
 ## 関連施設
-- <a href="http://4hacker.github.io/hackerhouse/">HackerSpace新宿</a>  #ときさば系 （コワーキングメンバー募集）24時間利用可能。ドロップイン500円〜 <a href="https://twitter.com/tokisaba" title="tokisaba"></a> 
+- <a href="http://4hacker.github.io/hackerhouse/">HackerSpace新宿</a>  #ときさば系 （コワーキングメンバー募集）24時間利用可能。ドロップイン500円〜 <a href="https://twitter.com/tokisaba" title="tokisaba"></a>
 - <a href="https://www.facebook.com/GeekOfficeEbisu">ギークオフィス恵比寿</a>
 - <a href="http://geekcafe.fow.bz/">ギークカフェ伊勢</a>
 - <a href="http://geeklab-nagano.com/">ギークラボ長野</a>
@@ -89,3 +86,4 @@
 - <a href="http://4hacker.github.io/hackerhouse/">HackerSpace神田秋葉原</a>  #ときさば系 （コワーキングメンバー募集） <a href="https://twitter.com/tokisaba" title="tokisaba">twitter</a>
 - <a href="http://4hacker.github.io/hackerhouse/">HackerCafe新宿</a> #ときさば系 “alias geenius_bar” <a href="https://twitter.com/tokisaba" title="tokisaba"> twitter</a>
 - <a href="https://tokutokutoku.github.io/">ギークハウス所沢</a> （2015年3月オープン）検索するとでてくるオウムなんとかとは全く関係ないです
+- <a href="https://geekhouseoami.tumblr.com/">ギークハウス千葉大網白里</a> DIY系古民家ギークハウス
