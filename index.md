@@ -19,11 +19,11 @@
 - <a href="http://geek-koshiji.com/">ギークハウス越路</a>（入居者募集中）長岡市越路地域の古民家シェアハウス。家賃は個室で1万円から。
 - <a href="http://4hacker.github.io/hackerhouse/">ギークハウス信州王滝村</a> #ときさば系 “alias hackerhouse” 2015年12月から。住民募集中。家賃１万円。村の中心にある昭和二年築の古民家。高速ネットあります。<a href="https://twitter.com/tokisaba" title="tokisaba">[ twitter ]</a><a href="https://www.facebook.com/tokisaba" title="tokisaba">[ facebook ]</a>
 - <a href="http://www.sharespacesola.com/posts/2601811">ギークハウス箕輪@長野</a> 段々と時代から取り残されていく農村を、新しい発想と技術で再発明し、これまでとは違う楽しい農村での暮らし方を作っていきたいと思っています。
+- <a href="http://geetsuku.github.io/">ギークハウスつくば</a> [つくばエクスプレス線] （入居者募集中)(2015年8月から)(ものづくり×サイエンス系シェアハウス)(筑波大学近く)(庭で木が切れます)<a href="https://twitter.com/geetsuku" title="geetsuku">[ twitter ]</a><a href="https://www.facebook.com/geekhousetsukuba/" title="geetusku">[ facebook ]</a>
 
 #### 西日本（岡山以外）
 
 - <a href="https://www.facebook.com/geek.nagoya/">ギークハウス名古屋</a> <a href="https://twitter.com/setoshi66/status/768373615536447488">Twitter</a> （2016年オープンしたばかり。住人募集中です）
-- <a href="http://geetsuku.github.io/">ギークハウスつくば</a> [つくばエクスプレス線]（入居者募集中）（2015年8月オープン）（ものづくり×サイエンス系シェアハウス）筑波大学近く。
 - <a href="http://blog.geekhouse.okinawa/join">ギークハウス沖縄</a> （入居者募集中）ギークハウス沖縄（入居者募集中）沖縄県沖縄市。リノベーション/DIYのギークハウス。沖縄最速のインターネットあり/家賃3万円
 
 #### 岡山
@@ -39,7 +39,6 @@
 
 - <a href="http://geekhouse.tumblr.com/post/63796293813/higashiueno">ギークハウス東上野</a> [銀座線][大江戸線][山手線]（男子個室・ドミトリー募集中）上野駅、御徒町駅近くで交通の便良し。
 - <a href="https://sharehouse.aaron.co.jp/geekhouse-ochanomizu">ギークハウスお茶の水</a> [中央線][総武線][丸ノ内線][千代田線][銀座線] 全室個室。2015年10月オープンリフォーム済綺麗。JR御茶ノ水駅まで徒歩4分の好立地、秋葉原も徒歩圏内、神田明神1分。 <a href="https://twitter.com/aaron_suzuki" title="aaron_suzuki">[ twitter ]</a> <a href="https://www.facebook.com/yoshihisa.suzuki.98" title="yoshihisa.suzuki.98">[ facebook ]</a>
-
 - <a href="https://sharehouse.aaron.co.jp/geekhouse-yushimatenjinmae">ギークハウス湯島天神前</a> [山手線][京浜東北線][千代田線][丸ノ内線][銀座線][大江戸線][京成線] 全室個室。2014年11月オープンリフォーム済綺麗。10分以内に6路線6駅あり交通至便、湯島天神1分。 <a href="https://twitter.com/aaron_suzuki" title="aaron_suzuki">[ twitter ]</a> <a href="https://www.facebook.com/yoshihisa.suzuki.98" title="yoshihisa.suzuki.98">[ facebook ]</a>
 
 #### 西東京
