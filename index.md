@@ -47,6 +47,7 @@
 - <a href="http://4hacker.github.io/hackerhouse/">ギークハウス新宿２丁目 </a>#ときさば系 “alias hackerhouse” （男女ドミトリー募集、自転車可、外国人）作業部屋あり。見学可。猫います <a href="https://twitter.com/tokisaba" title="tokisaba">[ twitter ]</a> <a href="https://www.facebook.com/tokisaba" title="tokisaba">[ facebook ]</a>
 - <a href="http://geemaru.wp.xdomain.jp/"> ギークハウス高円寺</a> 『ギー◯』（2016年3月オープン）♂♀ドミトリー・個室大募集。ソーシャル×IT 一軒家を住人が借りた珍しいシェアハウスです。
 - <a href="https://twitter.com/geehachi">ギークハウス八王子</a>（ドミトリー・個室募集中）（2016年7月オープンン）
+- <a href="https://geekhouseakigawa.wixsite.com/akigawa-sharehouse">ギークハウス秋川</a> 都心から離れた自然豊かなシェアハウスです。（男女個室募集中、女性推奨。ゆるギーク。自転車置き場、駐車場あり。内見・お試し宿泊可。）
 
 #### 神奈川
 - <a href="http://geekmtsm.com">ギークハウス元住吉</a> [東横線元住吉駅から徒歩5分] 男子ドミトリーの入居者募集中。個性的なマンションの最上階。自称日本一きれいなギークハウス。
@@ -59,7 +60,6 @@
 - <a href="http://geekhouse-osakaikeda.tumblr.com/">ギークハウス大阪池田</a>（満室）
 - <a href="http://geekhouse.tumblr.com/post/41336302168/okachimachi">ギークハウス御徒町</a> [大江戸線][つくばエクスプレス線][銀座線] （満室）稲荷町駅、新御徒町駅が最寄りです。
 - ギークハウスZERO
-- <a href="https://geekhouseakigawa.wixsite.com/akigawa-sharehouse">ギークハウス秋川</a> 東京都とは思えない、大自然豊かな場所にあるシェアハウスです。
 - <a href="http://geektfkj.blogspot.jp/">ギークハウス京都東福寺</a>  ゲーム関係者の集まる和風なギークハウス!たぶん西日本一綺麗!現在過半数が外国人。
 
 
