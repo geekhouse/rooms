@@ -56,7 +56,6 @@
 
 ## 満室
 - <a href="http://geekhouse.tumblr.com/post/110448107709/ryougoku">ギークハウス両国</a>（満室）（2015年2月オープン）（共用のカフェ風ワークスペース、駐輪場あり）
-- <a href="http://geekhouse.tumblr.com/post/110446423029/ogikubo">ギークハウス荻窪</a>（満室）（2015年2月オープン）
 - <a href="http://geekhouse-osakaikeda.tumblr.com/">ギークハウス大阪池田</a>（満室）
 - <a href="http://geekhouse.tumblr.com/post/41336302168/okachimachi">ギークハウス御徒町</a> [大江戸線][つくばエクスプレス線][銀座線] （満室）稲荷町駅、新御徒町駅が最寄りです。
 - ギークハウスZERO
@@ -87,3 +86,4 @@
 - <a href="https://tokutokutoku.github.io/">ギークハウス所沢</a> （2015年3月オープン）検索するとでてくるオウムなんとかとは全く関係ないです
 - <a href="https://geekhouseoami.tumblr.com/">ギークハウス千葉大網白里</a> DIY系古民家ギークハウス
 - <a href="http://geek-koshiji.com/">ギークハウス越路</a> 長岡市越路地域の古民家シェアハウス
+- <a href="http://geekhouse.tumblr.com/post/110446423029/ogikubo">ギークハウス荻窪</a>（2018年8月末クローズ予定）
