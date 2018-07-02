@@ -1,4 +1,4 @@
-<img src="http://cdn-ak.f.st-hatena.com/images/fotolife/t/tomoya/20111218/20111218111732.jpg" height="400" />
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/t/tomoya/20111218/20111218111732.jpg" height="400" />
 
 現在、以下のギークハウスで入居者を募集しています。入居希望、見学希望などの詳細については、各ギークハウスのページからそれぞれのハウスの管理者の方にお問い合わせください。
 
