@@ -6,12 +6,12 @@
 
 ### 今週のおすすめギークハウス
 
+- <a href="https://sharehouse.aaron.co.jp/geekhouse-ochanomizu">ギークハウスお茶の水</a> [中央線][総武線][丸ノ内線][千代田線][銀座線] 全室個室。2018年8月1日～6部屋増築決定！2015年10月オープン、JR御茶ノ水駅まで徒歩4分の好立地、秋葉原も徒歩圏内、神田明神1分。 <a href="https://twitter.com/aaron_suzuki" title="aaron_suzuki">[ twitter ]</a> <a href="https://www.facebook.com/yoshihisa.suzuki.98" title="yoshihisa.suzuki.98">[ facebook ]</a>
+- <a href="http://geekhouse.tumblr.com/post/110448107709/ryougoku">ギークハウス両国</a>（個室入居者募集中）（2015年2月オープン）（共用のカフェ風ワークスペース、駐輪場あり）
 - [<font color="Red"> NEW! </font>] <a href="http://4hacker.github.io/hackerhouse/">ギークハウス西新宿１</a> #ときさば系 “alias hackerhouse” （男女ドミトリー募集、自転車可、外国人、）2018年08月10日オープン。 <a href="https://www.facebook.com/GeekHouseTokisaba/" title="tokisaba">[ facebook ]</a>
 - [<font color="Red"> NEW! </font>] <a href="http://4hacker.github.io/hackerhouse/">ギークハウス西新宿２</a> #ときさば系 “alias hackerhouse” （男女ドミトリー募集、自転車可、外国人、）作業部屋あり。2018年08月10日オープン <a href="https://www.facebook.com/GeekHouseTokisaba/" title="tokisaba">[ facebook ]</a>
-- <a href="https://sharehouse.aaron.co.jp/geekhouse-ochanomizu">ギークハウスお茶の水</a> [中央線][総武線][丸ノ内線][千代田線][銀座線] 全室個室。2018年8月1日～6部屋増築決定！2015年10月オープン、JR御茶ノ水駅まで徒歩4分の好立地、秋葉原も徒歩圏内、神田明神1分。 <a href="https://twitter.com/aaron_suzuki" title="aaron_suzuki">[ twitter ]</a> <a href="https://www.facebook.com/yoshihisa.suzuki.98" title="yoshihisa.suzuki.98">[ facebook ]</a>
 - <a href="http://blog.geekhouse.okinawa/join">ギークハウス沖縄</a> （入居者募集中）ギークハウス沖縄（入居者募集中）沖縄県沖縄市。リノベーション/DIYのギークハウス。沖縄最速のインターネットあり/家賃3万円
 - <a href="https://www.facebook.com/geekura/">ギークハウス倉敷</a> 倉敷駅から自転車で20分の古民家。家賃8000円＋光熱費水道費を頭割で、パーソナルスペースは押し入れ1段半（ドラ○もん方式）。現在の住人は、革職人とライターとエロ漫画家と中型犬一匹です。
-- <a href="http://www.sharespacesola.com/posts/2601811">ギークハウス箕輪@長野</a> 段々と時代から取り残されていく農村を、新しい発想と技術で再発明し、これまでとは違う楽しい農村での暮らし方を作っていきたいと思っています。
 
 ### 首都圏外
 #### 東日本
@@ -19,6 +19,7 @@
 - <a href="https://www.facebook.com/geebari?__mref=message_bubble">ギークハウス＠夕張</a>（入居者募集中）（2016年7月オープン）日本最北端のギークハウス。夏は夕張メロン、冬は長芋、温泉多数、スキー場10分。
 - <a href="http://www.geefunato.com"> ギークハウス岩手三陸大船渡</a>（入居者募集中）（2015年10月オープン）岩手県大船渡市。家賃１万円。地元の仕事紹介できます。高速ネット、無料コワーキングスペース、畑。柴犬います。
 - <a href="http://www.geek-niigata.com/">ギークハウス新潟</a>（入居者募集中）新潟市東区のギークハウス。家賃1万円から。
+- ギークハウス新潟日和山 （入居者募集中）
 - <a href="http://www.sharespacesola.com/posts/2601811">ギークハウス箕輪@長野</a> 段々と時代から取り残されていく農村を、新しい発想と技術で再発明し、これまでとは違う楽しい農村での暮らし方を作っていきたいと思っています。
 - <a href="http://geetsuku.github.io/">ギークハウスつくば</a> [つくばエクスプレス線] （入居者募集中)(2015年8月から)(ものづくり×サイエンス系シェアハウス)(筑波大学近く)(庭で木が切れます)<a href="https://twitter.com/geetsuku" title="geetsuku">[ twitter ]</a><a href="https://www.facebook.com/geekhousetsukuba/" title="geetusku">[ facebook ]</a>
 
@@ -40,13 +41,15 @@
 
 - <a href="http://geekhouse.tumblr.com/post/63796293813/higashiueno">ギークハウス東上野</a> [銀座線][大江戸線][山手線]（男子個室・ドミトリー募集中）上野駅、御徒町駅近くで交通の便良し。
 - <a href="https://sharehouse.aaron.co.jp/geekhouse-ochanomizu">ギークハウスお茶の水</a> [中央線][総武線][丸ノ内線][千代田線][銀座線] 全室個室。2018年8月1日～6部屋増築決定！2015年10月オープン、JR御茶ノ水駅まで徒歩4分の好立地、秋葉原も徒歩圏内、神田明神1分。 <a href="https://twitter.com/aaron_suzuki" title="aaron_suzuki">[ twitter ]</a> <a href="https://www.facebook.com/yoshihisa.suzuki.98" title="yoshihisa.suzuki.98">[ facebook ]</a>
-- <a href="https://sharehouse.aaron.co.jp/geekhouse-yushimatenjinmae">ギークハウス湯島天神前</a> [山手線][京浜東北線][千代田線][丸ノ内線][銀座線][大江戸線][京成線] 全室個室。2014年11月オープンリフォーム済綺麗。10分以内に6路線6駅あり交通至便、湯島天神1分。 <a href="https://twitter.com/aaron_suzuki" title="aaron_suzuki">[ twitter ]</a> <a href="https://www.facebook.com/yoshihisa.suzuki.98" title="yoshihisa.suzuki.98">[ facebook ]</a>	- <a href="https://sharehouse.aaron.co.jp/geekhouse-yushimatenjinmae">ギークハウス湯島天神前</a> [山手線][京浜東北線][千代田線][丸ノ内線][銀座線][大江戸線][京成線] 全室個室。2014年11月オープン、10分以内に6路線6駅あり交通至便、湯島天神1分。 <a href="https://twitter.com/aaron_suzuki" title="aaron_suzuki">[ twitter ]</a> <a href="https://www.facebook.com/yoshihisa.suzuki.98" title="yoshihisa.suzuki.98">[ facebook ]</a>
+- <a href="https://sharehouse.aaron.co.jp/geekhouse-yushimatenjinmae">ギークハウス湯島天神前</a> [山手線][京浜東北線][千代田線][丸ノ内線][銀座線][大江戸線][京成線] 全室個室。2014年11月オープン、10分以内に6路線6駅あり交通至便、湯島天神1分。 <a href="https://twitter.com/aaron_suzuki" title="aaron_suzuki">[ twitter ]</a> <a href="https://www.facebook.com/yoshihisa.suzuki.98" title="yoshihisa.suzuki.98">[ facebook ]</a>
 
 #### 西東京
-- <a href="http://4hacker.github.io/hackerhouse/">ギークハウス西新宿１</a> #ときさば系 “alias hackerhouse” （男女ドミトリー募集、自転車可、外国人、）テレビ部屋、作業部屋あり。2018年08月10日オープン。 <a href="https://www.facebook.com/GeekHouseTokisaba/" title="tokisaba">[ facebook ]</a>
-- <a href="http://4hacker.github.io/hackerhouse/">ギークハウス西新宿２</a> #ときさば系 “alias hackerhouse” （男女ドミトリー募集、自転車可、外国人、）テレビ部屋、作業部屋あり。2018年08月10日オープン <a href="https://www.facebook.com/GeekHouseTokisaba/" title="tokisaba">[ facebook ]</a>
-- <a href="http://geename.tumblr.com/">ギークハウス中目黒</a> [東横線][山手線] ギークハウス中目黒。定員５名で現在ドミトリー２名募集です！渋谷、恵比寿、五反田など自転車通勤がしやすい
+- <a href="http://4hacker.github.io/hackerhouse/">ギークハウス新宿</a> #ときさば系 “alias hackerhouse” （男女ドミトリー募集、自転車可、外国人、）テレビ部屋、作業部屋あり。 <a href="https://www.facebook.com/GeekHouseTokisaba/" title="tokisaba">[ facebook ]</a>
+- <a href="http://4hacker.github.io/hackerhouse/">ギークハウス新宿四ツ谷</a> #ときさば系 “alias hackerhouse” 7LDK。（男女ドミトリー募集、自転車可、外国人）20畳くらいの広いリビング、バーカウンター、作業部屋あり。日本一オシャレなギークハウスを目指す。<a href="https://www.facebook.com/GeekHouseTokisaba/" title="tokisaba">[ facebook ]</a>
 - <a href="http://4hacker.github.io/hackerhouse/">ギークハウス新宿２丁目 </a>#ときさば系 “alias hackerhouse” （男女ドミトリー募集、自転車可、外国人）作業部屋あり。見学可。猫います  <a href="https://www.facebook.com/GeekHouseTokisaba/" title="tokisaba">[ facebook ]</a>
+- [<font color="Red"> NEW! </font>] <a href="http://4hacker.github.io/hackerhouse/">ギークハウス西新宿１</a> #ときさば系 “alias hackerhouse” （男女ドミトリー募集、自転車可、外国人、）テレビ部屋、作業部屋あり。2018年08月10日オープン。 <a href="https://www.facebook.com/GeekHouseTokisaba/" title="tokisaba">[ facebook ]</a>
+- [<font color="Red"> NEW! </font>] <a href="http://4hacker.github.io/hackerhouse/">ギークハウス西新宿２</a> #ときさば系 “alias hackerhouse” （男女ドミトリー募集、自転車可、外国人、）テレビ部屋、作業部屋あり。2018年08月10日オープン <a href="https://www.facebook.com/GeekHouseTokisaba/" title="tokisaba">[ facebook ]</a>
+- <a href="http://geename.tumblr.com/">ギークハウス中目黒</a> [東横線][山手線] ギークハウス中目黒。定員５名で現在ドミトリー２名募集です！渋谷、恵比寿、五反田など自転車通勤がしやすい
 - <a href="https://twitter.com/geehachi">ギークハウス八王子</a>（ドミトリー・個室募集中）（2016年7月オープンン）
 - <a href="https://geekhouseakigawa.wixsite.com/akigawa-sharehouse">ギークハウス秋川</a> 都心から離れた自然豊かなシェアハウスです。（男女個室募集中、女性推奨。ゆるギーク。自転車置き場、駐車場あり。内見・お試し宿泊可。）
 
@@ -64,8 +67,6 @@
 - <a href="http://geekhouse.tumblr.com/post/41336302168/okachimachi">ギークハウス御徒町</a> [大江戸線][つくばエクスプレス線][銀座線] （満室）稲荷町駅、新御徒町駅が最寄りです。
 - ギークハウスZERO
 - <a href="http://geektfkj.blogspot.jp/">ギークハウス京都東福寺</a>  ゲーム関係者の集まる和風なギークハウス!たぶん西日本一綺麗!現在過半数が外国人。
-- <a href="http://4hacker.github.io/hackerhouse/">ギークハウス新宿</a> #ときさば系 “alias hackerhouse” （男女ドミトリー募集、自転車可、外国人、）テレビ部屋、作業部屋あり。 <a href="https://www.facebook.com/GeekHouseTokisaba/" title="tokisaba">[ facebook ]</a>
-- <a href="http://4hacker.github.io/hackerhouse/">ギークハウス新宿四ツ谷</a> #ときさば系 “alias hackerhouse” 7LDK。（男女ドミトリー募集、自転車可、外国人）20畳くらいの広いリビング、バーカウンター、作業部屋あり。日本一オシャレなギークハウスを目指す。<a href="https://www.facebook.com/GeekHouseTokisaba/" title="tokisaba">[ facebook ]</a>
 
 
 
