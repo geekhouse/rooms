@@ -27,6 +27,7 @@
 
 - <a href="https://www.facebook.com/geek.nagoya/">ギークハウス名古屋</a> <a href="https://twitter.com/setoshi66/status/768373615536447488">Twitter</a> （2016年オープンしたばかり。住人募集中です）
 - <a href="http://blog.geekhouse.okinawa/join">ギークハウス沖縄</a> （入居者募集中）ギークハウス沖縄（入居者募集中）沖縄県沖縄市。リノベーション/DIYのギークハウス。沖縄最速のインターネットあり/家賃3万円
+- <a href="https://geek-house-matsue.github.io/">ギークハウス松江</a> (2018年7月オープン,住人募集中)島根県松江市 Matzが来るかも!?<a href="https://www.facebook.com/ギークハウス松江-2467714756588990/">Facebookページ</a>
 
 #### 岡山
 
@@ -73,7 +74,6 @@
 
 ## 計画中
 - ギークハウス東松戸
-- ギークハウス島根松江
 - ギークハウス瀬戸内
 - ギークハウス岡山後楽園
 - ギークハウス岡山高梁
