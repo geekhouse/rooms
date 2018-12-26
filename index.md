@@ -66,7 +66,6 @@
 - <a href="http://geekhouse-osakaikeda.tumblr.com/">ギークハウス大阪池田</a>（満室）
 - <a href="http://geekhouse.tumblr.com/post/41336302168/okachimachi">ギークハウス御徒町</a> [大江戸線][つくばエクスプレス線][銀座線] （満室）稲荷町駅、新御徒町駅が最寄りです。
 - ギークハウスZERO
-- <a href="http://geektfkj.blogspot.jp/">ギークハウス京都東福寺</a>  ゲーム関係者の集まる和風なギークハウス!たぶん西日本一綺麗!現在過半数が外国人。
 
 
 
@@ -98,3 +97,4 @@
 - <a href="http://geekhouse.tumblr.com/post/110446423029/ogikubo">ギークハウス荻窪</a>（2018年8月末クローズ予定）
 - <a href="http://geemaru.wp.xdomain.jp/"> ギークハウス高円寺</a> 『ギー◯』（2016年3月オープン）♂♀ドミトリー・個室大募集。ソーシャル×IT 一軒家を住人が借りた珍しいシェアハウスです。
 - <a href="http://4hacker.github.io/hackerhouse/">ギークハウス西新宿２</a> #ときさば系 “alias hackerhouse” （男女ドミトリー募集、自転車可、外国人可）テレビ部屋、作業部屋あり。 
+- <a href="http://geektfkj.blogspot.jp/">ギークハウス京都東福寺</a>  ゲーム関係者の集まる和風なギークハウス!たぶん西日本一綺麗!現在過半数が外国人。
