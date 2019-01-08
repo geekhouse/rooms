@@ -83,7 +83,6 @@
 - ギークハウス岡山新見
 - ギークハウス広島福山
 - ギークハウス福岡
-- ギークハウスホーチミン＠ベトナム
 
 ## 関連施設
 - <a href="http://4hacker.github.io/hackerhouse/">HackerSpace新宿</a>  #ときさば系 （コワーキングメンバー募集）24時間利用可能。ドロップイン500円〜 <a href="https://twitter.com/tokisaba" title="tokisaba"></a>
