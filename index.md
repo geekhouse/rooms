@@ -6,11 +6,16 @@
 
 ### 今週のおすすめギークハウス
 
+- [<font color="Red"> NEW! </font>] <a href="https://www.facebook.com/geekhousesaigon/">ギークハウスサイゴン</a> ベトナムのホーチミンの高級コンドミニアムの一室。ジム、プール完備。１年中30度前後の安定した気候。上がコンドミニアムで、下はコワーキングスペース、カフェ、スーパーが入った複合施設。（男女ドミトリー募集、外国人可）2019年01月1日オープン。 <a href="https://www.facebook.com/geekhousesaigon/" title="saigon">[ facebook ]</a>
 - <a href="https://sharehouse.aaron.co.jp/geekhouse-ochanomizu">ギークハウスお茶の水</a> [中央線][総武線][丸ノ内線][千代田線][銀座線] 全室個室。2018年8月1日～6部屋増築決定！2015年10月オープン、JR御茶ノ水駅まで徒歩4分の好立地、秋葉原も徒歩圏内、神田明神1分。 <a href="https://twitter.com/aaron_suzuki" title="aaron_suzuki">[ twitter ]</a> <a href="https://www.facebook.com/yoshihisa.suzuki.98" title="yoshihisa.suzuki.98">[ facebook ]</a>
 - <a href="http://geekhouse.tumblr.com/post/110448107709/ryougoku">ギークハウス両国</a>（個室入居者募集中）（2015年2月オープン）（共用のカフェ風ワークスペース、駐輪場あり）
-- [<font color="Red"> NEW! </font>] <a href="http://4hacker.github.io/hackerhouse/">ギークハウス西新宿１</a> #ときさば系 “alias hackerhouse” （男女ドミトリー募集、自転車可、外国人、）2018年08月10日オープン。 <a href="https://www.facebook.com/GeekHouseTokisaba/" title="tokisaba">[ facebook ]</a>
 - <a href="http://blog.geekhouse.okinawa/join">ギークハウス沖縄</a> （入居者募集中）ギークハウス沖縄（入居者募集中）沖縄県沖縄市。リノベーション/DIYのギークハウス。沖縄最速のインターネットあり/家賃3万円
 - <a href="https://www.facebook.com/geekura/">ギークハウス倉敷</a> 倉敷駅から自転車で20分の古民家。家賃8000円＋光熱費水道費を頭割で、パーソナルスペースは押し入れ1段半（ドラ○もん方式）。現在の住人は、革職人とライターとエロ漫画家と中型犬一匹です。
+
+### 日本国外
+#### ベトナム
+- [<font color="Red"> NEW! </font>] <a href="https://www.facebook.com/geekhousesaigon/">ギークハウスサイゴン</a> ベトナムのホーチミンの高級コンドミニアムの一室。ジム、プール完備。１年中30度前後の安定した気候。上がコンドミニアムで、下はコワーキングスペース、カフェ、スーパーが入った複合施設。（男女ドミトリー募集、外国人可）2019年01月1日オープン。 <a href="https://www.facebook.com/geekhousesaigon/" title="saigon">[ facebook ]</a>
+
 
 ### 首都圏外
 #### 東日本
