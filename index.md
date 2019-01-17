@@ -30,6 +30,7 @@
 #### 西日本（岡山以外）
 
 - <a href="https://www.facebook.com/geek.nagoya/">ギークハウス名古屋</a> <a href="https://twitter.com/setoshi66/status/768373615536447488">Twitter</a> （2016年オープンしたばかり。住人募集中です）
+- <a href="https://twitter.com/house_seikatsu">ギークハウス生活</a> （名古屋市中村区烏森駅徒歩2分。家賃3万円初期費用なし食事付きNURO光回線 業務用中華厨房）
 - <a href="http://blog.geekhouse.okinawa/join">ギークハウス沖縄</a> （入居者募集中）ギークハウス沖縄（入居者募集中）沖縄県沖縄市。リノベーション/DIYのギークハウス。沖縄最速のインターネットあり/家賃3万円
 - <a href="https://geek-house-matsue.github.io/">ギークハウス松江</a> (2018年7月オープン,住人募集中)島根県松江市 Matzが来るかも!?<a href="https://www.facebook.com/ギークハウス松江-2467714756588990/">Facebookページ</a>
 
