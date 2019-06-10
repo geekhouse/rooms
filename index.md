@@ -24,7 +24,6 @@
 - <a href="http://www.geefunato.com"> ギークハウス岩手三陸大船渡</a>（入居者募集中）（2015年10月オープン）岩手県大船渡市。家賃１万円。地元の仕事紹介できます。高速ネット、無料コワーキングスペース、畑。柴犬います。
 - <a href="http://www.geek-niigata.com/">ギークハウス新潟</a>（入居者募集中）新潟市東区のギークハウス。家賃1万円から。
 - ギークハウス新潟日和山 （入居者募集中）
-- <a href="http://www.sharespacesola.com/posts/2601811">ギークハウス箕輪@長野</a> 段々と時代から取り残されていく農村を、新しい発想と技術で再発明し、これまでとは違う楽しい農村での暮らし方を作っていきたいと思っています。
 - <a href="http://geetsuku.github.io/">ギークハウスつくば</a> [つくばエクスプレス線] （入居者募集中)(2015年8月から)(ものづくり×サイエンス系シェアハウス)(筑波大学近く)(庭で木が切れます)<a href="https://twitter.com/geetsuku" title="geetsuku">[ twitter ]</a><a href="https://www.facebook.com/geekhousetsukuba/" title="geetusku">[ facebook ]</a>
 
 #### 西日本（岡山以外）
@@ -89,6 +88,7 @@
 - <a href="http://geekdojo.strikingly.com/">ギーク道場倉敷</a>
 
 ## 閉鎖
+- <a href="http://www.sharespacesola.com/posts/2601811">ギークハウス箕輪@長野</a> 段々と時代から取り残されていく農村を、新しい発想と技術で再発明し、これまでとは違う楽しい農村での暮らし方を作っていきたいと思っています。
 - <a href="http://geekhouse.tumblr.com/post/113088272124/jiyugaoka">ギークハウス自由ヶ丘</a>[東急大井町線]	（渋谷まで15分）（男女個室募集中）（もくもく部屋（共有作業スペース）もあります）
 - <a href="http://4hacker.github.io/hackerhouse/">HackerSpace神田秋葉原</a>  #ときさば系 （コワーキングメンバー募集） <a href="https://twitter.com/tokisaba" title="tokisaba">twitter</a>
 - <a href="http://4hacker.github.io/hackerhouse/">HackerCafe新宿</a> #ときさば系 “alias geenius_bar” <a href="https://twitter.com/tokisaba" title="tokisaba"> twitter</a>
