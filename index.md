@@ -52,7 +52,6 @@
 - <a href="https://4hacker.github.io/hackerhouse/geekhouse-4tsuya.html">ギークハウス新宿四ツ谷</a> #ときさば系 “alias hackerhouse” 7LDK。男女ドミトリー募集、自転車可、外国人可。20畳くらいの広いリビング、バーカウンター、作業部屋あり。日本一オシャレなギークハウスを目指す。 <a href="https://www.facebook.com/GeekHouseTokisaba/" title="GeekHouseTokisaba">[ facebook ]</a>
 - <a href="https://4hacker.github.io/hackerhouse/geekhouse-shinjuku-2chome.html">ギークハウス新宿2丁目 </a> #ときさば系 “alias hackerhouse” 男女ドミトリー募集、自転車可、外国人可。作業部屋あり。見学可。猫います。 <a href="https://www.facebook.com/GeekHouseTokisaba/" title="GeekHouseTokisaba">[ facebook ]</a>
 - <a href="https://medium.com/@geek_nakame">ギークハウス中目黒</a> [東横線][山手線] 2018年8月リニューアル。渋谷、恵比寿、五反田など自転車通勤がしやすい。 <a href="https://twitter.com/geek_nakame" title="geek_nakame">[ twitter ]</a>
-- <a href="https://www.facebook.com/geekhousehachiohji/">ギークハウス八王子</a> 2016年7月オープン。 <a href="https://twitter.com/geehachi" title="geehachi">[ twitter ]</a>
 
 #### 神奈川
 - <a href="http://geekmtsm.com">ギークハウス元住吉</a> 東横線元住吉駅から徒歩5分。男子ドミトリーの入居者募集中。個性的なマンションの最上階。自称日本一きれいなギークハウス。 <a href="https://twitter.com/geekmtsm" title="geekmtsm">[ twitter ]</a> <a href="https://www.facebook.com/geekmtsm/" title="geekmtsm">[ facebook ]</a>
@@ -70,6 +69,7 @@
 - <a href="https://geekhousedice.tumblr.com/">Geek house Dice!</a> 新潟県3番目のギークハウス。 <a href="https://twitter.com/ryoutti" title="ryoutti">[ twitter ]</a>
 - <a href="https://twitter.com/geegota">ギークハウス五反田・大崎</a> <a href="https://twitter.com/geegota" title="geegota">[ twitter ]</a>
 - <a href="https://peraichi.com/landing_pages/view/geekhouseosakatsuruhashi">ギークハウス大阪鶴橋</a> 2018年9月オープン。<a href="https://twitter.com/geek_tsuruhashi" title="geek_tsuruhashi">[ twitter ]</a>
+- <a href="https://www.facebook.com/geekhousehachiohji/">ギークハウス八王子</a> 2016年7月オープン。 <a href="https://twitter.com/geehachi" title="geehachi">[ twitter ]</a>
 
 ## 計画中
 - ギークハウス清瀬
@@ -82,8 +82,7 @@
 ## 関連施設
 - <a href="https://4hacker.github.io/hackerhouse/hackerspace_shinjuku.html">HackerSpace新宿</a>  #ときさば系 コワーキングメンバー募集。24時間利用可能。ドロップイン500円～ <a href="https://www.facebook.com/GeekHouseTokisaba/" title="GeekHouseTokisaba"></a>
 - <a href="http://geekoffice-ebisu.mystrikingly.com/">ギークオフィス恵比寿</a> 招待制、会員制コワーキングスペース、イベント会場。メンバー募集中！ <a href="https://www.facebook.com/GeekOfficeEbisu/" title="GeekOfficeEbisu">[ facebook ]</a>
-- <a href="http://geeklab-nagano.com/">ギークラボ長野</a> ITを中心としたエンジニアやそれを目指す人たちのための秘密基地とも言えるスペース。長野市内及び周辺におけるテクノロジーに関する知識やノウハウなどの集積基地になることを目指しています。
-- <a href="https://twitter.com/glnagano" title="glnagano">[ twitter ]</a> <a href="https://www.facebook.com/geeklab.nagano/" title="geeklab.nagano">[ facebook ]</a>
+- <a href="http://geeklab-nagano.com/">ギークラボ長野</a> ITを中心としたエンジニアやそれを目指す人たちのための秘密基地とも言えるスペース。長野市内及び周辺におけるテクノロジーに関する知識やノウハウなどの集積基地になることを目指しています。 <a href="https://twitter.com/glnagano" title="glnagano">[ twitter ]</a> <a href="https://www.facebook.com/geeklab.nagano/" title="geeklab.nagano">[ facebook ]</a>
 
 ## 閉鎖
 - <a href="http://www.sharespacesola.com/posts/2601811">ギークハウス箕輪@長野</a> 段々と時代から取り残されていく農村を、新しい発想と技術で再発明し、これまでとは違う楽しい農村での暮らし方を作っていきたいと思っています。
