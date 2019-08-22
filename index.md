@@ -5,12 +5,12 @@
 ## 募集中
 
 ### 今週のおすすめギークハウス
-- [<font color="red"> NEW! </font>] <a href="https://sharehouse.aaron.co.jp/geekhouse-akihabara/">ギークハウス秋葉原</a> [山手線][京浜東北線][総武線][銀座線][千代田線][日比谷線][つくばエクスプレス] 全室ネットカフェフラットブース個室仕様。2019年9月7日～オープン決定、5ブース募集中！ 秋葉原ジャンク通り直ぐの外神田住所！ <a href="https://twitter.com/aaron_suzuki" title="aaron_suzuki">[ twitter ]</a><a href="https://www.facebook.com/ghakiba/" title="ghakiba">[ facebook ]</a>
+- [<font color="red"> NEW! </font>] <a href="https://sharehouse.aaron.co.jp/geekhouse-akihabara/">ギークハウス秋葉原</a> [山手線][京浜東北線][総武線][銀座線][千代田線][日比谷線][つくばエクスプレス] 全室ネットカフェフラットブース個室仕様。2019年9月7日～オープン決定、5ブース募集中！ 秋葉原ジャンク通り直ぐの外神田住所！ <a href="https://twitter.com/aaron_suzuki" title="aaron_suzuki">[ twitter ]</a> <a href="https://www.facebook.com/ghakiba/" title="ghakiba">[ facebook ]</a>
 - [<font color="red"> NEW! </font>] <a href="https://twitter.com/setoshi66">ギークハウス名古屋2</a> JR名古屋駅徒歩10分。オープン感のぎーなご2。<a href="https://twitter.com/setoshi66" title="setoshi66">[ twitter ]</a>
-- <a href="https://www.sharelife-toyama.com/house/">ギークハウス富山</a> 富山県初のギークハウス。住人募集中。IT、ゲーム、マンガ、アニメがキーワード。 <a href="https://twitter.com/geek_toyama" title="geek_toyama">[ twitter ]</a><a href="https://www.facebook.com/sharelifetoyama" title="sharelifetoyama">[ facebook ]</a>
-- <a href="https://geehiro.jimdo.com/">ギークハウス広島</a> 広島県三原市久井町。お祭りイベントや音楽イベント、ぎーひろ農園を使った農業体験など様々なイベントを開催しています。 <a href="https://twitter.com/GeekHiroshima" title="GeekHiroshima">[ twitter ]</a><a href="https://www.facebook.com/GeekhouseHiroshima" title="GeekhouseHiroshima">[ facebook ]</a>
+- <a href="https://www.sharelife-toyama.com/house/">ギークハウス富山</a> 富山県初のギークハウス。住人募集中。IT、ゲーム、マンガ、アニメがキーワード。 <a href="https://twitter.com/geek_toyama" title="geek_toyama">[ twitter ]</a> <a href="https://www.facebook.com/sharelifetoyama" title="sharelifetoyama">[ facebook ]</a>
+- <a href="https://geehiro.jimdo.com/">ギークハウス広島</a> 広島県三原市久井町。お祭りイベントや音楽イベント、ぎーひろ農園を使った農業体験など様々なイベントを開催しています。 <a href="https://twitter.com/GeekHiroshima" title="GeekHiroshima">[ twitter ]</a> <a href="https://www.facebook.com/GeekhouseHiroshima" title="GeekhouseHiroshima">[ facebook ]</a>
 - <a href="https://geerak.tumblr.com/">ギークハウス岡山後楽園</a> 岡山後楽園にある「気楽に楽しく」がモットーのギークハウス。JR就実・西河原駅より徒歩12分、岡山後楽園徒歩10分。 <a href="https://twitter.com/geerak19" title="geerak19">[ twitter ]</a> <a href="https://www.facebook.com/geekhousekourakuen/" title="geekhousekourakuen">[ facebook ]</a>
-- <a href="http://geek-is.me/">ギークハウス藍住</a> 四国初のギークハウス。徳島県藍住町。ギークハウスでは珍しい管理人のお母さんの承認制を採用しております。 <a href="https://twitter.com/geezumi" title="geezumi">[ twitter ]</a><a href="https://www.facebook.com/geezumi/" title="https://www.facebook.com/geezumi/">[ facebook ]</a> 
+- <a href="http://geek-is.me/">ギークハウス藍住</a> 四国初のギークハウス。徳島県藍住町。ギークハウスでは珍しい管理人のお母さんの承認制を採用しております。 <a href="https://twitter.com/geezumi" title="geezumi">[ twitter ]</a> <a href="https://www.facebook.com/geezumi/" title="https://www.facebook.com/geezumi/">[ facebook ]</a> 
 - <a href="https://blog.geekhouse.okinawa/">ギークハウス沖縄</a> 沖縄県沖縄市。リノベーション・DIYのギークハウス。沖縄最速のインターネットあり。家賃3万円 <a href="https://twitter.com/geeoki" title="geeoki">[ twitter ]</a> <a href="https://www.facebook.com/geeoki/" title="geeoki">[ facebook ]</a>
 - <a href="https://www.facebook.com/geekhousesaigon/">ギークハウスサイゴン</a> ベトナムのホーチミンの高級コンドミニアムの一室。ジム、プール完備。1年中30度前後の安定した気候。上がコンドミニアムで、下はコワーキングスペース、カフェ、スーパーが入った複合施設。（男女ドミトリー募集、外国人可）2019年1月1日オープン。 <a href="https://www.facebook.com/geekhousesaigon/" title="geekhousesaigon">[ facebook ]</a>
 
@@ -24,27 +24,27 @@
 - <a href="https://www.geefunato.com/"> ギークハウス岩手三陸大船渡</a> 2015年10月オープン。岩手県大船渡市。家賃1万円。地元の仕事紹介できます。高速ネット、無料コワーキングスペース、畑。柴犬います。 <a href="https://twitter.com/geefunato" title="geefunato">[ twitter ]</a> <a href="https://www.facebook.com/geefunato/" title="geefunato">[ facebook ]</a>
 - <a href="http://www.geek-niigata.com/">ギークハウス新潟</a> 新潟市東区のギークハウス。家賃1万円～ <a href="https://twitter.com/geek_niigata" title="geef_niigata">[ twitter ]</a> <a href="https://www.facebook.com/geekniigata/" title="geekniigata">[ facebook ]</a>
 - <a href="https://www.facebook.com/geekhiyoriyama/">ギークハウス新潟日和山</a> 新潟2番目のギークハウス。海まで徒歩5分。家賃1万円～ <a href="https://twitter.com/geek_hiyoriyama" title="geef_hiyoriyama">[ twitter ]</a> <a href="https://www.facebook.com/geekhiyoriyama/" title="geekhiyoriyama">[ facebook ]</a>
-- <a href="http://geetsuku.github.io/">ギークハウスつくば</a> [つくばエクスプレス線] 2015年8月～。ものづくり×サイエンス系シェアハウス。筑波大学近く。庭で木が切れます。 <a href="https://twitter.com/geetsuku" title="geetsuku">[ twitter ]</a><a href="https://www.facebook.com/geekhousetsukuba/" title="geekhousetsukuba">[ facebook ]</a>
-- <a href="https://www.sharelife-toyama.com/house/">ギークハウス富山</a> 富山県初のギークハウス。住人募集中。IT、ゲーム、マンガ、アニメがキーワード。 <a href="https://twitter.com/geek_toyama" title="geek_toyama">[ twitter ]</a><a href="https://www.facebook.com/sharelifetoyama" title="sharelifetoyama">[ facebook ]</a>
+- <a href="http://geetsuku.github.io/">ギークハウスつくば</a> [つくばエクスプレス線] 2015年8月～。ものづくり×サイエンス系シェアハウス。筑波大学近く。庭で木が切れます。 <a href="https://twitter.com/geetsuku" title="geetsuku">[ twitter ]</a> <a href="https://www.facebook.com/geekhousetsukuba/" title="geekhousetsukuba">[ facebook ]</a>
+- <a href="https://www.sharelife-toyama.com/house/">ギークハウス富山</a> 富山県初のギークハウス。住人募集中。IT、ゲーム、マンガ、アニメがキーワード。 <a href="https://twitter.com/geek_toyama" title="geek_toyama">[ twitter ]</a> <a href="https://www.facebook.com/sharelifetoyama" title="sharelifetoyama">[ facebook ]</a>
 
 #### 西日本（岡山以外）
-- <a href="https://www.facebook.com/geek.nagoya/">ギークハウス名古屋</a> 2016年オープン。JR名古屋駅徒歩10分。まったり感のぎーなご。<a href="https://twitter.com/setoshi66" title="setoshi66">[ twitter ]</a><a href="https://www.facebook.com/geek.nagoya/" title="geek.nagoya">[ facebook ]</a>
+- <a href="https://www.facebook.com/geek.nagoya/">ギークハウス名古屋</a> 2016年オープン。JR名古屋駅徒歩10分。まったり感のぎーなご。<a href="https://twitter.com/setoshi66" title="setoshi66">[ twitter ]</a> <a href="https://www.facebook.com/geek.nagoya/" title="geek.nagoya">[ facebook ]</a>
 - <a href="https://twitter.com/setoshi66">ギークハウス名古屋2</a> JR名古屋駅徒歩10分。オープン感のぎーなご2。<a href="https://twitter.com/setoshi66" title="setoshi66">[ twitter ]</a>
 - <a href="https://twitter.com/house_seikatsu">ギークハウス生活</a> 名古屋市中村区烏森駅徒歩2分。家賃3万円初期費用なし。食事付き、米と卵食べ放題、NURO光回線、業務用中華厨房 <a href="https://twitter.com/house_seikatsu" title="house_seikatsu">[ twitter ]</a>
-- <a href="https://geehiro.jimdo.com/">ギークハウス広島</a> 広島県三原市久井町。お祭りイベントや音楽イベント、ぎーひろ農園を使った農業体験など様々なイベントを開催しています。 <a href="https://twitter.com/GeekHiroshima" title="GeekHiroshima">[ twitter ]</a><a href="https://www.facebook.com/GeekhouseHiroshima" title="GeekhouseHiroshima">[ facebook ]</a>
+- <a href="https://geehiro.jimdo.com/">ギークハウス広島</a> 広島県三原市久井町。お祭りイベントや音楽イベント、ぎーひろ農園を使った農業体験など様々なイベントを開催しています。 <a href="https://twitter.com/GeekHiroshima" title="GeekHiroshima">[ twitter ]</a> <a href="https://www.facebook.com/GeekhouseHiroshima" title="GeekhouseHiroshima">[ facebook ]</a>
 - <a href="https://geek-house-matsue.github.io/">ギークハウス松江</a> 2018年7月オープン。島根県松江市。Matzが来るかも!? <a href="https://www.facebook.com/%E3%82%AE%E3%83%BC%E3%82%AF%E3%83%8F%E3%82%A6%E3%82%B9%E6%9D%BE%E6%B1%9F-2467714756588990/">[ facebook ]</a>
-- <a href="http://geek-is.me/">ギークハウス藍住</a> 四国初のギークハウス。徳島県藍住町。ギークハウスでは珍しい管理人のお母さんの承認制を採用しております。 <a href="https://twitter.com/geezumi" title="geezumi">[ twitter ]</a><a href="https://www.facebook.com/geezumi/" title="https://www.facebook.com/geezumi/">[ facebook ]</a> 
+- <a href="http://geek-is.me/">ギークハウス藍住</a> 四国初のギークハウス。徳島県藍住町。ギークハウスでは珍しい管理人のお母さんの承認制を採用しております。 <a href="https://twitter.com/geezumi" title="geezumi">[ twitter ]</a> <a href="https://www.facebook.com/geezumi/" title="https://www.facebook.com/geezumi/">[ facebook ]</a> 
 - <a href="https://blog.geekhouse.okinawa/">ギークハウス沖縄</a> 沖縄県沖縄市。リノベーション・DIYのギークハウス。沖縄最速のインターネットあり。家賃3万円 <a href="https://twitter.com/geeoki" title="geeoki">[ twitter ]</a> <a href="https://www.facebook.com/geeoki/" title="geeoki">[ facebook ]</a>
 
 #### 岡山
 - <a href="https://geeoka.com/">ギークハウス岡山</a> 2014年1月オープン。岡山電気軌道清輝橋線 東中央町駅徒歩3分、JR岡山駅自転車10分。管理人は岡山駅周辺のお酒屋さんの店主。本業の傍らウェブサービスを開発・運営。中国・四国ギークハウスの中心地。 <a href="https://twitter.com/geeoka" title="geeoka">[ twitter ]</a> <a href="https://www.facebook.com/geeoka" title="geeoka">[ facebook ]</a>
 - <a href="https://geerak.tumblr.com/">ギークハウス岡山後楽園</a> 岡山後楽園にある「気楽に楽しく」がモットーのギークハウス。JR就実・西河原駅より徒歩12分、岡山後楽園徒歩10分。 <a href="https://twitter.com/geerak19" title="geerak19">[ twitter ]</a> <a href="https://www.facebook.com/geekhousekourakuen/" title="geekhousekourakuen">[ facebook ]</a>
-- <a href="http://geemani.com/">ギークハウス真庭</a> 岡山県真庭市。久世駅から徒歩3分。全室個室で家賃は7千円～。駐車場あり。市内周遊バス（200円）を利用して、湯原温泉（無料露天風呂）や蒜山高原へ気軽にお出かけできます。 <a href="https://twitter.com/geekmaniwa" title="geekmaniwa">[ twitter ]</a> <a href="https://www.facebook.com/geekmaniwa/" title="geekmaniwa">[ facebook ]</a>
+- <a href="http://geemani.com/">ギークハウス真庭</a> 岡山県真庭市。久世駅から徒歩3分。全室個室で家賃は7000円～。駐車場あり。市内周遊バス（200円）を利用して、湯原温泉（無料露天風呂）や蒜山高原へ気軽にお出かけできます。 <a href="https://twitter.com/geekmaniwa" title="geekmaniwa">[ twitter ]</a> <a href="https://www.facebook.com/geekmaniwa/" title="geekmaniwa">[ facebook ]</a>
 
 ### 首都圏
 #### 東東京
-- [<font color="red"> NEW! </font>] <a href="https://sharehouse.aaron.co.jp/geekhouse-akihabara/">ギークハウス秋葉原</a> [山手線][京浜東北線][総武線][銀座線][千代田線][日比谷線][つくばエクスプレス] 全室ネットカフェフラットブース個室仕様。2019年9月7日～オープン決定、5ブース募集中！ 秋葉原ジャンク通り直ぐの外神田住所！ <a href="https://twitter.com/aaron_suzuki" title="aaron_suzuki">[ twitter ]</a><a href="https://www.facebook.com/ghakiba/" title="ghakiba">[ facebook ]</a>
-- <a href="https://sharehouse.aaron.co.jp/geekhouse-ochanomizu">ギークハウスお茶の水</a> [中央線][総武線][丸ノ内線][千代田線][銀座線] 全室個室。2018年8月1日～6部屋増築。2015年10月オープン。JR御茶ノ水駅まで徒歩4分の好立地、秋葉原も徒歩圏内、神田明神1分。 <a href="https://twitter.com/aaron_suzuki" title="aaron_suzuki">[ twitter ]</a><a href="https://www.facebook.com/ghocnmz/" title="ghocnmz">[ facebook ]</a>
+- [<font color="red"> NEW! </font>] <a href="https://sharehouse.aaron.co.jp/geekhouse-akihabara/">ギークハウス秋葉原</a> [山手線][京浜東北線][総武線][銀座線][千代田線][日比谷線][つくばエクスプレス] 全室ネットカフェフラットブース個室仕様。2019年9月7日～オープン決定、5ブース募集中！ 秋葉原ジャンク通り直ぐの外神田住所！ <a href="https://twitter.com/aaron_suzuki" title="aaron_suzuki">[ twitter ]</a> <a href="https://www.facebook.com/ghakiba/" title="ghakiba">[ facebook ]</a>
+- <a href="https://sharehouse.aaron.co.jp/geekhouse-ochanomizu">ギークハウスお茶の水</a> [中央線][総武線][丸ノ内線][千代田線][銀座線] 全室個室。2018年8月1日～6部屋増築。2015年10月オープン。JR御茶ノ水駅まで徒歩4分の好立地、秋葉原も徒歩圏内、神田明神1分。 <a href="https://twitter.com/aaron_suzuki" title="aaron_suzuki">[ twitter ]</a> <a href="https://www.facebook.com/ghocnmz/" title="ghocnmz">[ facebook ]</a>
 - <a href="https://sharehouse.aaron.co.jp/geekhouse-yushimatenjinmae">ギークハウス湯島天神前</a> [山手線][京浜東北線][千代田線][丸ノ内線][銀座線][大江戸線][京成線] 全室個室。2014年11月オープン。10分以内に6路線6駅あり交通至便、湯島天神1分。 <a href="https://twitter.com/aaron_suzuki" title="aaron_suzuki">[ twitter ]</a> <a href="https://www.facebook.com/ghysmtjm/" title="ghysmtjm">[ facebook ]</a>
 
 #### 西東京
@@ -83,7 +83,7 @@
 - <a href="https://4hacker.github.io/hackerhouse/hackerspace_shinjuku.html">HackerSpace新宿</a>  #ときさば系 コワーキングメンバー募集。24時間利用可能。ドロップイン500円～ <a href="https://www.facebook.com/GeekHouseTokisaba/" title="GeekHouseTokisaba"></a>
 - <a href="http://geekoffice-ebisu.mystrikingly.com/">ギークオフィス恵比寿</a> 招待制、会員制コワーキングスペース、イベント会場。メンバー募集中！ <a href="https://www.facebook.com/GeekOfficeEbisu/" title="GeekOfficeEbisu">[ facebook ]</a>
 - <a href="http://geeklab-nagano.com/">ギークラボ長野</a> ITを中心としたエンジニアやそれを目指す人たちのための秘密基地とも言えるスペース。長野市内及び周辺におけるテクノロジーに関する知識やノウハウなどの集積基地になることを目指しています。
-- <a href="https://twitter.com/glnagano" title="glnagano">[ twitter ]</a><a href="https://www.facebook.com/geeklab.nagano/" title="geeklab.nagano">[ facebook ]</a>
+- <a href="https://twitter.com/glnagano" title="glnagano">[ twitter ]</a> <a href="https://www.facebook.com/geeklab.nagano/" title="geeklab.nagano">[ facebook ]</a>
 
 ## 閉鎖
 - <a href="http://www.sharespacesola.com/posts/2601811">ギークハウス箕輪@長野</a> 段々と時代から取り残されていく農村を、新しい発想と技術で再発明し、これまでとは違う楽しい農村での暮らし方を作っていきたいと思っています。
