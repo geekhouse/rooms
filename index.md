@@ -103,4 +103,3 @@
 - <a href="https://www.facebook.com/geekura/">ギークハウス倉敷</a> 倉敷駅から自転車で20分の古民家。家賃8000円＋光熱費水道費を頭割で、パーソナルスペースは押し入れ1段半（ドラ○もん方式）。現在の住人は、革職人とライターとエロ漫画家と中型犬一匹です。
 - <a href="http://geekcafe.fow.bz/">ギークカフェ伊勢</a>
 - <a href="http://geekdojo.strikingly.com/">ギーク道場倉敷</a>
-
