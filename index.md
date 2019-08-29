@@ -5,6 +5,7 @@
 ## 募集中
 
 ### 今週のおすすめギークハウス
+- [<font color="red"> NEW! </font>] <a href="https://sharehouse.aaron.co.jp/geekhouse-asakusabashi/">ギークハウス浅草橋</a> [総武線][浅草線][横須賀総武快速線] JR浅草橋駅西口徒歩1分の便利な立地。2019年10月1日～オープン予定、10部屋募集中！ <a href="https://twitter.com/aaron_suzuki" title="aaron_suzuki">[ twitter ]</a> <a href="https://www.facebook.com/ghasksbs/" title="ghasksbs">[ facebook ]</a>
 - [<font color="red"> NEW! </font>] <a href="https://sharehouse.aaron.co.jp/geekhouse-akihabara/">ギークハウス秋葉原</a> [山手線][京浜東北線][総武線][銀座線][千代田線][日比谷線][つくばエクスプレス] 全室ネットカフェフラットブース個室仕様。2019年9月7日～オープン決定、5ブース募集中！ 秋葉原ジャンク通り直ぐの外神田住所！ <a href="https://twitter.com/aaron_suzuki" title="aaron_suzuki">[ twitter ]</a> <a href="https://www.facebook.com/ghakiba/" title="ghakiba">[ facebook ]</a>
 - [<font color="red"> NEW! </font>] <a href="https://twitter.com/setoshi66">ギークハウス名古屋2</a> JR名古屋駅徒歩10分。オープン感のぎーなご2。<a href="https://twitter.com/setoshi66" title="setoshi66">[ twitter ]</a>
 - <a href="https://www.sharelife-toyama.com/house/">ギークハウス富山</a> 富山県初のギークハウス。住人募集中。IT、ゲーム、マンガ、アニメがキーワード。 <a href="https://twitter.com/geek_toyama" title="geek_toyama">[ twitter ]</a> <a href="https://www.facebook.com/sharelifetoyama" title="sharelifetoyama">[ facebook ]</a>
@@ -43,6 +44,7 @@
 
 ### 首都圏
 #### 東東京
+- [<font color="red"> NEW! </font>] <a href="https://sharehouse.aaron.co.jp/geekhouse-asakusabashi/">ギークハウス浅草橋</a> [総武線][浅草線][横須賀総武快速線] JR浅草橋駅西口徒歩1分の便利な立地。2019年10月1日～オープン予定、10部屋募集中！ <a href="https://twitter.com/aaron_suzuki" title="aaron_suzuki">[ twitter ]</a> <a href="https://www.facebook.com/ghasksbs/" title="ghasksbs">[ facebook ]</a>
 - [<font color="red"> NEW! </font>] <a href="https://sharehouse.aaron.co.jp/geekhouse-akihabara/">ギークハウス秋葉原</a> [山手線][京浜東北線][総武線][銀座線][千代田線][日比谷線][つくばエクスプレス] 全室ネットカフェフラットブース個室仕様。2019年9月7日～オープン決定、5ブース募集中！ 秋葉原ジャンク通り直ぐの外神田住所！ <a href="https://twitter.com/aaron_suzuki" title="aaron_suzuki">[ twitter ]</a> <a href="https://www.facebook.com/ghakiba/" title="ghakiba">[ facebook ]</a>
 - <a href="https://sharehouse.aaron.co.jp/geekhouse-ochanomizu">ギークハウスお茶の水</a> [中央線][総武線][丸ノ内線][千代田線][銀座線] 全室個室。2018年8月1日～6部屋増築。2015年10月オープン。JR御茶ノ水駅まで徒歩4分の好立地、秋葉原も徒歩圏内、神田明神1分。 <a href="https://twitter.com/aaron_suzuki" title="aaron_suzuki">[ twitter ]</a> <a href="https://www.facebook.com/ghocnmz/" title="ghocnmz">[ facebook ]</a>
 - <a href="https://sharehouse.aaron.co.jp/geekhouse-yushimatenjinmae">ギークハウス湯島天神前</a> [山手線][京浜東北線][千代田線][丸ノ内線][銀座線][大江戸線][京成線] 全室個室。2014年11月オープン。10分以内に6路線6駅あり交通至便、湯島天神1分。 <a href="https://twitter.com/aaron_suzuki" title="aaron_suzuki">[ twitter ]</a> <a href="https://www.facebook.com/ghysmtjm/" title="ghysmtjm">[ facebook ]</a>
@@ -64,8 +66,7 @@
 
 ## 満室もしくは状況不明
 - <a href="http://geekhouse.tumblr.com/post/110448107709/ryougoku">ギークハウス両国</a> 2015年2月オープン。共用のカフェ風ワークスペース、駐輪場あり。
-- <a href="http://geekhouse.tumblr.com/post/41336302168/okachimachi">ギークハウス御徒町</a> [大江戸線][つくばエクスプレス線][銀座線] 稲荷町駅、新御徒町駅が最寄りです。
-- <a href="https://twitter.com/geekhouse0">ギークハウスZERO</a>
+- <a href="http://geekhouse.tumblr.com/post/41336302168/okachimachi">ギークハウス御徒町（ZERO）</a> [大江戸線][つくばエクスプレス線][銀座線] 稲荷町駅、新御徒町駅が最寄りです。
 - <a href="https://geekhousedice.tumblr.com/">Geek house Dice!</a> 新潟県3番目のギークハウス。 <a href="https://twitter.com/ryoutti" title="ryoutti">[ twitter ]</a>
 - <a href="https://twitter.com/geegota">ギークハウス五反田・大崎</a> <a href="https://twitter.com/geegota" title="geegota">[ twitter ]</a>
 - <a href="https://peraichi.com/landing_pages/view/geekhouseosakatsuruhashi">ギークハウス大阪鶴橋</a> 2018年9月オープン。<a href="https://twitter.com/geek_tsuruhashi" title="geek_tsuruhashi">[ twitter ]</a>
