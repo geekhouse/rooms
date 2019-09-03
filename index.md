@@ -1,6 +1,6 @@
 <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/t/tomoya/20111218/20111218111732.jpg" height="400" />
 
-現在、以下のギークハウスで入居者を募集しています。入居希望、見学希望などの詳細については、各ギークハウスのページからそれぞれのハウスの管理者の方にお問い合わせください。（2019/09/01 更新）
+現在、以下のギークハウスで入居者を募集しています。入居希望、見学希望などの詳細については、各ギークハウスのページからそれぞれのハウスの管理者の方にお問い合わせください。（2019/09/03 更新）
 
 ## 募集中
 
@@ -86,7 +86,7 @@
 - <a href="http://4hacker.github.io/hackerhouse/">HackerSpace新宿</a>  #ときさば系 （コワーキングメンバー募集）24時間利用可能。ドロップイン500円〜 <a href="https://twitter.com/tokisaba" title="tokisaba"></a>
 - <a href="https://linkdesign.jp/geekoffice/">ギークオフィス恵比寿</a> 招待制、会員制コワーキングスペース、イベント会場。メンバー募集中！ <a href="https://www.facebook.com/GeekOfficeEbisu/" title="GeekOfficeEbisu">[ facebook ]</a>
 - <a href="http://geeklab-nagano.com/">ギークラボ長野</a> ITを中心としたエンジニアやそれを目指す人たちのための秘密基地とも言えるスペース。長野市内及び周辺におけるテクノロジーに関する知識やノウハウなどの集積基地になることを目指しています。 <a href="https://twitter.com/glnagano" title="glnagano">[ twitter ]</a> <a href="https://www.facebook.com/geeklab.nagano/" title="geeklab.nagano">[ facebook ]</a>
-- [<font color="red"> NEW! </font>] ギークライブラリー秋葉原</a> 秋葉原駅徒歩1分にプログラマー向け自習室「ギークライブラリー」爆誕！ <a href="https://www.facebook.com/jigu3638442" title="jigu3638442">[ facebook ]</a>
+- [<font color="red"> NEW! </font>] ギークライブラリー秋葉原</a> 秋葉原駅徒歩1分にプログラマー向け自習室「ギークライブラリー」爆誕！ <a href="https://www.facebook.com/geeklibrary.jp/" title="geeklibrary.jp">[ facebook ]</a>
 
 ## 閉鎖
 - <a href="http://www.sharespacesola.com/posts/2601811">ギークハウス箕輪@長野</a> 段々と時代から取り残されていく農村を、新しい発想と技術で再発明し、これまでとは違う楽しい農村での暮らし方を作っていきたいと思っています。
