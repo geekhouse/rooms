@@ -1,10 +1,12 @@
 <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/t/tomoya/20111218/20111218111732.jpg" height="400" />
 
-現在、以下のギークハウスで入居者を募集しています。入居希望、見学希望などの詳細については、各ギークハウスのページからそれぞれのハウスの管理者の方にお問い合わせください。（2019/08/24 更新）
+現在、以下のギークハウスで入居者を募集しています。入居希望、見学希望などの詳細については、各ギークハウスのページからそれぞれのハウスの管理者の方にお問い合わせください。（2019/09/03 更新）
 
 ## 募集中
 
 ### 今週のおすすめギークハウス
+- [<font color="red"> NEW! </font>] <a href="https://colish.net/concepts/1314">ギークハウス川崎</a> JR川崎駅徒歩5分。入居者募集中！毎週日曜日には定期勉強会を開催しており、現在はRasberryPiにより家具制御を行っております。 <a href="https://www.facebook.com/mitsuhiro.sugano" title="mitsuhiro.sugano">[ facebook ]</a>
+- [<font color="red"> NEW! </font>] <a href="https://sharehouse.aaron.co.jp/geekhouse-asakusabashi/">ギークハウス浅草橋</a> [総武線][浅草線][横須賀総武快速線] JR浅草橋駅西口徒歩1分の便利な立地。2019年10月1日～オープン予定、10部屋募集中！ <a href="https://twitter.com/aaron_suzuki" title="aaron_suzuki">[ twitter ]</a> <a href="https://www.facebook.com/ghasksbs/" title="ghasksbs">[ facebook ]</a>
 - [<font color="red"> NEW! </font>] <a href="https://sharehouse.aaron.co.jp/geekhouse-akihabara/">ギークハウス秋葉原</a> [山手線][京浜東北線][総武線][銀座線][千代田線][日比谷線][つくばエクスプレス] 全室ネットカフェフラットブース個室仕様。2019年9月7日～オープン決定、5ブース募集中！ 秋葉原ジャンク通り直ぐの外神田住所！ <a href="https://twitter.com/aaron_suzuki" title="aaron_suzuki">[ twitter ]</a> <a href="https://www.facebook.com/ghakiba/" title="ghakiba">[ facebook ]</a>
 - [<font color="red"> NEW! </font>] <a href="https://twitter.com/setoshi66">ギークハウス名古屋2</a> JR名古屋駅徒歩10分。オープン感のぎーなご2。<a href="https://twitter.com/setoshi66" title="setoshi66">[ twitter ]</a>
 - <a href="https://www.sharelife-toyama.com/house/">ギークハウス富山</a> 富山県初のギークハウス。住人募集中。IT、ゲーム、マンガ、アニメがキーワード。 <a href="https://twitter.com/geek_toyama" title="geek_toyama">[ twitter ]</a> <a href="https://www.facebook.com/sharelifetoyama" title="sharelifetoyama">[ facebook ]</a>
@@ -43,6 +45,7 @@
 
 ### 首都圏
 #### 東東京
+- [<font color="red"> NEW! </font>] <a href="https://sharehouse.aaron.co.jp/geekhouse-asakusabashi/">ギークハウス浅草橋</a> [総武線][浅草線][横須賀総武快速線] JR浅草橋駅西口徒歩1分の便利な立地。2019年10月1日～オープン予定、10部屋募集中！ <a href="https://twitter.com/aaron_suzuki" title="aaron_suzuki">[ twitter ]</a> <a href="https://www.facebook.com/ghasksbs/" title="ghasksbs">[ facebook ]</a>
 - [<font color="red"> NEW! </font>] <a href="https://sharehouse.aaron.co.jp/geekhouse-akihabara/">ギークハウス秋葉原</a> [山手線][京浜東北線][総武線][銀座線][千代田線][日比谷線][つくばエクスプレス] 全室ネットカフェフラットブース個室仕様。2019年9月7日～オープン決定、5ブース募集中！ 秋葉原ジャンク通り直ぐの外神田住所！ <a href="https://twitter.com/aaron_suzuki" title="aaron_suzuki">[ twitter ]</a> <a href="https://www.facebook.com/ghakiba/" title="ghakiba">[ facebook ]</a>
 - <a href="https://sharehouse.aaron.co.jp/geekhouse-ochanomizu">ギークハウスお茶の水</a> [中央線][総武線][丸ノ内線][千代田線][銀座線] 全室個室。2018年8月1日～6部屋増築。2015年10月オープン。JR御茶ノ水駅まで徒歩4分の好立地、秋葉原も徒歩圏内、神田明神1分。 <a href="https://twitter.com/aaron_suzuki" title="aaron_suzuki">[ twitter ]</a> <a href="https://www.facebook.com/ghocnmz/" title="ghocnmz">[ facebook ]</a>
 - <a href="https://sharehouse.aaron.co.jp/geekhouse-yushimatenjinmae">ギークハウス湯島天神前</a> [山手線][京浜東北線][千代田線][丸ノ内線][銀座線][大江戸線][京成線] 全室個室。2014年11月オープン。10分以内に6路線6駅あり交通至便、湯島天神1分。 <a href="https://twitter.com/aaron_suzuki" title="aaron_suzuki">[ twitter ]</a> <a href="https://www.facebook.com/ghysmtjm/" title="ghysmtjm">[ facebook ]</a>
@@ -55,6 +58,7 @@
 
 #### 神奈川
 - <a href="http://geekmtsm.com">ギークハウス元住吉</a> 東横線元住吉駅から徒歩5分。男子ドミトリーの入居者募集中。個性的なマンションの最上階。自称日本一きれいなギークハウス。 <a href="https://twitter.com/geekmtsm" title="geekmtsm">[ twitter ]</a> <a href="https://www.facebook.com/geekmtsm/" title="geekmtsm">[ facebook ]</a>
+- [<font color="red"> NEW! </font>] <a href="https://colish.net/concepts/1314">ギークハウス川崎</a> JR川崎駅徒歩5分。入居者募集中！毎週日曜日には定期勉強会を開催しており、現在はRasberryPiにより家具制御を行っております。 <a href="https://www.facebook.com/mitsuhiro.sugano" title="mitsuhiro.sugano">[ facebook ]</a>
 - <a href="https://geek-house-yokohama.webnode.jp/">ギークハウス横浜</a> JR横浜駅西口から徒歩圏内。男子ドミトリー募集中。田舎の実家みたいにくつろげる家&起業家アジトがコンセプト。 <a href="https://twitter.com/geek_yokohama" title="geek_yokohama">[ twitter ]</a> <a href="https://www.facebook.com/geek.house.yokohama/" title="geek.house.yokohama">[ facebook ]</a>
 - <a href="https://geekmrk.tumblr.com/">ギークハウス新丸子</a> 東急東横線新丸子駅徒歩圏内。男子ドミトリー募集中。自称日本一起業家輩出を目指すギークハウス。もくもく作業できるもくもく部屋あり。最寄り駅は新丸子と武蔵小杉。 <a href="https://www.facebook.com/geekmrk" title="geekmrk">[ facebook ]</a>
 
@@ -64,8 +68,7 @@
 
 ## 満室もしくは状況不明
 - <a href="http://geekhouse.tumblr.com/post/110448107709/ryougoku">ギークハウス両国</a> 2015年2月オープン。共用のカフェ風ワークスペース、駐輪場あり。
-- <a href="http://geekhouse.tumblr.com/post/41336302168/okachimachi">ギークハウス御徒町</a> [大江戸線][つくばエクスプレス線][銀座線] 稲荷町駅、新御徒町駅が最寄りです。
-- <a href="https://twitter.com/geekhouse0">ギークハウスZERO</a>
+- <a href="http://geekhouse.tumblr.com/post/41336302168/okachimachi">ギークハウス御徒町（ZERO）</a> [大江戸線][つくばエクスプレス線][銀座線] 稲荷町駅、新御徒町駅が最寄りです。
 - <a href="https://geekhousedice.tumblr.com/">Geek house Dice!</a> 新潟県3番目のギークハウス。 <a href="https://twitter.com/ryoutti" title="ryoutti">[ twitter ]</a>
 - <a href="https://twitter.com/geegota">ギークハウス五反田・大崎</a> <a href="https://twitter.com/geegota" title="geegota">[ twitter ]</a>
 - <a href="https://peraichi.com/landing_pages/view/geekhouseosakatsuruhashi">ギークハウス大阪鶴橋</a> 2018年9月オープン。<a href="https://twitter.com/geek_tsuruhashi" title="geek_tsuruhashi">[ twitter ]</a>
@@ -83,6 +86,7 @@
 - <a href="http://4hacker.github.io/hackerhouse/">HackerSpace新宿</a>  #ときさば系 （コワーキングメンバー募集）24時間利用可能。ドロップイン500円〜 <a href="https://twitter.com/tokisaba" title="tokisaba"></a>
 - <a href="https://linkdesign.jp/geekoffice/">ギークオフィス恵比寿</a> 招待制、会員制コワーキングスペース、イベント会場。メンバー募集中！ <a href="https://www.facebook.com/GeekOfficeEbisu/" title="GeekOfficeEbisu">[ facebook ]</a>
 - <a href="http://geeklab-nagano.com/">ギークラボ長野</a> ITを中心としたエンジニアやそれを目指す人たちのための秘密基地とも言えるスペース。長野市内及び周辺におけるテクノロジーに関する知識やノウハウなどの集積基地になることを目指しています。 <a href="https://twitter.com/glnagano" title="glnagano">[ twitter ]</a> <a href="https://www.facebook.com/geeklab.nagano/" title="geeklab.nagano">[ facebook ]</a>
+- [<font color="red"> NEW! </font>] <a href="https://www.geeklibrary.jp/">ギークライブラリー秋葉原</a> 秋葉原駅徒歩1分にプログラマー向け自習室「ギークライブラリー」爆誕！ <a href="https://www.facebook.com/geeklibrary.jp/" title="geeklibrary.jp">[ facebook ]</a>
 
 ## 閉鎖
 - <a href="http://www.sharespacesola.com/posts/2601811">ギークハウス箕輪@長野</a> 段々と時代から取り残されていく農村を、新しい発想と技術で再発明し、これまでとは違う楽しい農村での暮らし方を作っていきたいと思っています。
