@@ -11,6 +11,7 @@
 - [<font color="red"> NEW! </font>] <a href="https://sharehouse.aaron.co.jp/geekhouse-asakusabashi/">ギークハウス浅草橋</a> [総武線][浅草線][横須賀総武快速線] JR浅草橋駅西口徒歩1分の便利な立地。2019年10月1日～オープン予定、10部屋募集中！ <a href="https://twitter.com/aaron_suzuki" title="aaron_suzuki">[ twitter ]</a> <a href="https://www.facebook.com/ghasksbs/" title="ghasksbs">[ facebook ]</a>
 - [<font color="red"> NEW! </font>] <a href="https://sharehouse.aaron.co.jp/geekhouse-akihabara/">ギークハウス秋葉原</a> [山手線][京浜東北線][総武線][銀座線][千代田線][日比谷線][つくばエクスプレス] 全室ネットカフェフラットブース個室仕様。2019年9月7日～オープン決定、5ブース募集中！ 秋葉原ジャンク通り直ぐの外神田住所！ <a href="https://twitter.com/aaron_suzuki" title="aaron_suzuki">[ twitter ]</a> <a href="https://www.facebook.com/ghakiba/" title="ghakiba">[ facebook ]</a>
 - [<font color="red"> NEW! </font>] <a href="https://twitter.com/setoshi66">ギークハウス名古屋2</a> JR名古屋駅徒歩10分。オープン感のぎーなご2。<a href="https://twitter.com/setoshi66" title="setoshi66">[ twitter ]</a>
+- <a href="https://sites.google.com/view/geekhousehachiouji/">ギークハウス八王子</a> 八王子駅徒歩15分。現在ドミトリー1名募集中。 <a href="https://twitter.com/geekhouse8ouji" title="geekhouse8ouji">[ twitter ]</a>
 - <a href="https://www.sharelife-toyama.com/house/">ギークハウス富山</a> 富山県初のギークハウス。住人募集中。IT、ゲーム、マンガ、アニメがキーワード。 <a href="https://twitter.com/geek_toyama" title="geek_toyama">[ twitter ]</a> <a href="https://www.facebook.com/sharelifetoyama" title="sharelifetoyama">[ facebook ]</a>
 - <a href="https://geehiro.jimdo.com/">ギークハウス広島</a> 広島県三原市久井町。お祭りイベントや音楽イベント、ぎーひろ農園を使った農業体験など様々なイベントを開催しています。 <a href="https://twitter.com/GeekHiroshima" title="GeekHiroshima">[ twitter ]</a> <a href="https://www.facebook.com/GeekhouseHiroshima" title="GeekhouseHiroshima">[ facebook ]</a>
 - <a href="https://geerak.tumblr.com/">ギークハウス岡山後楽園</a> 岡山後楽園にある「気楽に楽しく」がモットーのギークハウス。JR就実・西河原駅より徒歩12分、岡山後楽園徒歩10分。 <a href="https://twitter.com/geerak19" title="geerak19">[ twitter ]</a> <a href="https://www.facebook.com/geekhousekourakuen/" title="geekhousekourakuen">[ facebook ]</a>
@@ -57,6 +58,7 @@
 - <a href="http://4hacker.github.io/hackerhouse/">ギークハウス新宿四ツ谷</a> #ときさば系 “alias hackerhouse” 7LDK。（男女ドミトリー募集、自転車可、外国人可）20畳くらいの広いリビング、バーカウンター、作業部屋あり。犬（コーギー）います。。日本一オシャレなギークハウスを目指す。<a href="https://www.facebook.com/GeekHouseTokisaba/" title="tokisaba">[ facebook ]</a>
 - <a href="http://4hacker.github.io/hackerhouse/">ギークハウス新宿２丁目 </a>#ときさば系 “alias hackerhouse” （男女ドミトリー募集、自転車可、外国人可）作業部屋あり。見学可。猫います  <a href="https://www.facebook.com/GeekHouseTokisaba/" title="tokisaba">[ facebook ]</a>
 - <a href="https://medium.com/@geek_nakame">ギークハウス中目黒</a> [東横線][山手線] 2018年8月リニューアル。渋谷、恵比寿、五反田など自転車通勤がしやすい。 <a href="https://twitter.com/geek_nakame" title="geek_nakame">[ twitter ]</a>
+- <a href="https://sites.google.com/view/geekhousehachiouji/">ギークハウス八王子</a> 八王子駅徒歩15分。現在ドミトリー1名募集中。 <a href="https://twitter.com/geekhouse8ouji" title="geekhouse8ouji">[ twitter ]</a>
 - [<font color="red"> NEW! </font>] <a href="https://geekhouse.effy.jp/geekogi.html">ギークハウス荻窪</a> #effy系 [中央線][丸ノ内線][東西線] 荻窪駅徒歩13分。無垢板の作業部屋あり。DIYいろいろと捗ってます。男子ドミトリー募集中。
 - [<font color="red"> NEW! </font>] <a href="https://geekhouse.effy.jp/geeknishiogi.html">ギークハウス西荻窪</a> #effy系 [中央線][東西線] 西荻窪駅徒歩11分。シェア自転車を置く予定。ギークハウス荻窪も徒歩圏内。男子ドミトリー募集中。
 - [<font color="red"> NEW! </font>] <a href="https://geekhouse.effy.jp/">ギークハウス清瀬</a> #effy系 [西武池袋線] 清瀬駅徒歩9分。所沢が近い。東京メトロ副都心線や東横線も直通。現在リフォーム中ですが、見学可能。男子ドミトリー募集中。
@@ -78,7 +80,6 @@
 - <a href="https://geekhousedice.tumblr.com/">Geek house Dice!</a> 新潟県3番目のギークハウス。 <a href="https://twitter.com/ryoutti" title="ryoutti">[ twitter ]</a>
 - <a href="https://twitter.com/geegota">ギークハウス五反田・大崎</a> <a href="https://twitter.com/geegota" title="geegota">[ twitter ]</a>
 - <a href="https://peraichi.com/landing_pages/view/geekhouseosakatsuruhashi">ギークハウス大阪鶴橋</a> 2018年9月オープン。<a href="https://twitter.com/geek_tsuruhashi" title="geek_tsuruhashi">[ twitter ]</a>
-- <a href="https://www.facebook.com/geekhousehachiohji/">ギークハウス八王子</a> 2016年7月オープン。 <a href="https://twitter.com/geehachi" title="geehachi">[ twitter ]</a>
 
 ## 関連施設
 - <a href="http://4hacker.github.io/hackerhouse/">HackerSpace新宿</a>  #ときさば系 （コワーキングメンバー募集）24時間利用可能。ドロップイン500円〜 <a href="https://twitter.com/tokisaba" title="tokisaba"></a>
