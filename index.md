@@ -5,6 +5,7 @@
 ## 募集中
 
 ### 今週のおすすめギークハウス
+- [<font color="red"> NEW! </font>] <a href="https://geekhouse-sudparis.github.io/home/">ギークハウス南パリ</a> バスでフランスの首都まで30分。IT、ゲーム、マンガ、アニメ、コスプレ好きな方大歓迎。個室。男女問わず募集中。<a href="https://twitter.com/geekhouseparis1" title="geekhouseparis1">[ twitter ]</a> <a href="https://www.facebook.com/geekhouseparis1/" title="geekhouseparis1">[ facebook ]</a>
 - [<font color="red"> NEW! </font>] <a href="https://house.areph.me/geekurayama">ギークハウス大倉山</a> [東急東横線] 大倉山駅徒歩2分。渋谷駅まで30分/横浜駅まで15分。IoTや設備の充実度を上げています。個室/ドミトリーあり。男女問わず募集中。
 - [<font color="red"> NEW! </font>] <a href="https://geekhouse.effy.jp/geekogi.html">ギークハウス荻窪</a> #effy系 [中央線][丸ノ内線][東西線] 荻窪駅徒歩13分。無垢板の作業部屋あり。DIYいろいろと捗ってます。男子ドミトリー募集中。
 - [<font color="red"> NEW! </font>] <a href="https://geekhouse.effy.jp/geeknishiogi.html">ギークハウス西荻窪</a> #effy系 [中央線][東西線] 西荻窪駅徒歩11分。シェア自転車を置く予定。ギークハウス荻窪も徒歩圏内。男子ドミトリー募集中。
@@ -23,6 +24,9 @@
 ### 日本国外
 #### ベトナム
 - <a href="https://www.facebook.com/geekhousesaigon/">ギークハウスサイゴン</a> ベトナムのホーチミンの高級コンドミニアムの一室。ジム、プール完備。1年中30度前後の安定した気候。上がコンドミニアムで、下はコワーキングスペース、カフェ、スーパーが入った複合施設。（男女ドミトリー募集、外国人可）2019年1月1日オープン。 <a href="https://www.facebook.com/geekhousesaigon/" title="geekhousesaigon">[ facebook ]</a>
+
+#### フランス
+- <a href="https://geekhouse-sudparis.github.io/home/">ギークハウス南パリ</a> バスでフランスの首都まで30分。IT、ゲーム、マンガ、アニメ、コスプレ好きな方大歓迎。個室。男女問わず募集中。<a href="https://twitter.com/geekhouseparis1" title="geekhouseparis1">[ twitter ]</a> <a href="https://www.facebook.com/geekhouseparis1/" title="geekhouseparis1">[ facebook ]</a>
 
 ### 首都圏外
 #### 東日本
