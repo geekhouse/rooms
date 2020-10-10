@@ -8,7 +8,6 @@
 - [<font color="red"> NEW! </font>] <a href="https://geekhouse-sudparis.github.io/home/">ギークハウス南パリ</a> バスでフランスの首都まで30分。IT、ゲーム、マンガ、アニメ、コスプレ好きな方大歓迎。個室。男女問わず募集中。<a href="https://twitter.com/geekhouseparis1" title="geekhouseparis1">[ twitter ]</a> <a href="https://www.facebook.com/geekhouseparis1/" title="geekhouseparis1">[ facebook ]</a>
 - [<font color="red"> NEW! </font>] <a href="https://house.areph.me/geekurayama">ギークハウス大倉山</a> [東急東横線] 大倉山駅徒歩2分。渋谷駅まで30分/横浜駅まで15分。IoTや設備の充実度を上げています。個室/ドミトリーあり。男女問わず募集中。
 - [<font color="red"> NEW! </font>] <a href="https://geekhouse.effy.jp/geekogi.html">ギークハウス荻窪</a> #effy系 [中央線][丸ノ内線][東西線] 荻窪駅徒歩13分。無垢板の作業部屋あり。DIYいろいろと捗ってます。男子ドミトリー募集中。
-- [<font color="red"> NEW! </font>] <a href="https://geekhouse.effy.jp/geeknishiogi.html">ギークハウス西荻窪</a> #effy系 [中央線][東西線] 西荻窪駅徒歩11分。シェア自転車を置く予定。ギークハウス荻窪も徒歩圏内。男子ドミトリー募集中。
 - [<font color="red"> NEW! </font>] <a href="https://colish.net/concepts/1314">ギークハウス川崎</a> JR川崎駅徒歩5分。入居者募集中！毎週日曜日には定期勉強会を開催しており、現在はRasberryPiにより家具制御を行っております。 <a href="https://www.facebook.com/mitsuhiro.sugano" title="mitsuhiro.sugano">[ facebook ]</a>
 - [<font color="red"> NEW! </font>] <a href="https://sharehouse.aaron.co.jp/geekhouse-asakusabashi/">ギークハウス浅草橋</a> [総武線][浅草線][横須賀総武快速線] JR浅草橋駅西口徒歩1分の便利な立地。2019年10月1日～オープン予定、10部屋募集中！ <a href="https://twitter.com/aaron_suzuki" title="aaron_suzuki">[ twitter ]</a> <a href="https://www.facebook.com/ghasksbs/" title="ghasksbs">[ facebook ]</a>
 - [<font color="red"> NEW! </font>] <a href="https://sharehouse.aaron.co.jp/geekhouse-akihabara/">ギークハウス秋葉原</a> [山手線][京浜東北線][総武線][銀座線][千代田線][日比谷線][つくばエクスプレス] 全室ネットカフェフラットブース個室仕様。2019年9月7日～オープン決定、5ブース募集中！ 秋葉原ジャンク通り直ぐの外神田住所！ <a href="https://twitter.com/aaron_suzuki" title="aaron_suzuki">[ twitter ]</a> <a href="https://www.facebook.com/ghakiba/" title="ghakiba">[ facebook ]</a>
@@ -64,10 +63,7 @@
 - <a href="http://4hacker.github.io/hackerhouse/">ギークハウス新宿２丁目 </a>#ときさば系 “alias hackerhouse” （男女ドミトリー募集、自転車可、外国人可）作業部屋あり。見学可。猫います  <a href="https://www.facebook.com/GeekHouseTokisaba/" title="tokisaba">[ facebook ]</a>
 - <a href="https://medium.com/@geek_nakame">ギークハウス中目黒</a> [東横線][山手線] 2018年8月リニューアル。渋谷、恵比寿、五反田など自転車通勤がしやすい。 <a href="https://twitter.com/geek_nakame" title="geek_nakame">[ twitter ]</a>
 - <a href="https://sites.google.com/view/geekhousehachiouji/">ギークハウス八王子</a> 八王子駅徒歩15分。現在ドミトリー1名募集中。 <a href="https://twitter.com/geekhouse8ouji" title="geekhouse8ouji">[ twitter ]</a>
-- [<font color="red"> NEW! </font>] <a href="https://geekhouse.effy.jp/geekogi.html">ギークハウス荻窪</a> #effy系 [中央線][丸ノ内線][東西線] 荻窪駅徒歩13分。無垢板の作業部屋あり。DIYいろいろと捗ってます。男子ドミトリー募集中。
-- [<font color="red"> NEW! </font>] <a href="https://geekhouse.effy.jp/geeknishiogi.html">ギークハウス西荻窪</a> #effy系 [中央線][東西線] 西荻窪駅徒歩11分。シェア自転車を置く予定。ギークハウス荻窪も徒歩圏内。男子ドミトリー募集中。
-- [<font color="red"> NEW! </font>] <a href="https://geekhouse.effy.jp/">ギークハウス清瀬</a> #effy系 [西武池袋線] 清瀬駅徒歩9分。所沢が近い。東京メトロ副都心線や東横線も直通。現在リフォーム中ですが、見学可能。男子ドミトリー募集中。
-- [<font color="red"> NEW! </font>] <a href="https://geekhouse.effy.jp/">ギークハウス西国分寺</a> #effy系 [中央線][武蔵野線] 西国分寺駅徒歩10分。現在リフォーム中ですが、見学可能。男子ドミトリー募集中。
+- <a href="https://geekhouse.effy.jp/geekogi.html">ギークハウス荻窪</a> #effy系 [中央線][丸ノ内線][東西線] 荻窪駅徒歩13分。無垢板の作業部屋あり。DIYいろいろと捗ってます。男子ドミトリー募集中。
 
 #### 神奈川
 - <a href="http://geekmtsm.com">ギークハウス元住吉</a> 東横線元住吉駅から徒歩5分。男子ドミトリーの入居者募集中。個性的なマンションの最上階。自称日本一きれいなギークハウス。 <a href="https://twitter.com/geekmtsm" title="geekmtsm">[ twitter ]</a> <a href="https://www.facebook.com/geekmtsm/" title="geekmtsm">[ facebook ]</a>
@@ -105,6 +101,9 @@
 - <a href="http://geemaru.wp.xdomain.jp/"> ギークハウス高円寺</a> 通称「ギー◯」。2016年3月オープン。ソーシャル×IT。一軒家を住人が借りた珍しいシェアハウスです。
 - <a href="http://4hacker.github.io/hackerhouse/">ギークハウス西新宿１</a> #ときさば系 “alias hackerhouse” （男女ドミトリー募集、自転車可、外国人可）テレビ部屋、作業部屋あり。2018年08月10日オープン。 <a href="https://www.facebook.com/GeekHouseTokisaba/" title="tokisaba">[ facebook ]</a>
 - <a href="http://4hacker.github.io/hackerhouse/">ギークハウス西新宿２</a> #ときさば系 “alias hackerhouse” （男女ドミトリー募集、自転車可、外国人可）テレビ部屋、作業部屋あり。 
+- <a href="https://geekhouse.effy.jp/geeknishiogi.html">ギークハウス西荻窪</a> #effy系 [中央線][東西線] 西荻窪駅徒歩11分。シェア自転車を置く予定。ギークハウス荻窪も徒歩圏内。
+- <a href="https://geekhouse.effy.jp/">ギークハウス清瀬</a> #effy系 [西武池袋線] 清瀬駅徒歩9分。所沢が近い。東京メトロ副都心線や東横線も直通。
+- <a href="https://geekhouse.effy.jp/">ギークハウス西国分寺</a> #effy系 [中央線][武蔵野線] 西国分寺駅徒歩10分。
 - <a href="http://geektfkj.blogspot.jp/">ギークハウス京都東福寺</a>  ゲーム関係者の集まる和風なギークハウス!たぶん西日本一綺麗!現在過半数が外国人。
 - <a href="http://geekhouse.tumblr.com/post/63796293813/higashiueno">ギークハウス東上野</a> [銀座線][大江戸線][山手線] 上野駅、御徒町駅近くで交通の便良し。
 - <a href="https://geekhouseakigawa.wixsite.com/akigawa-sharehouse">ギークハウス秋川</a> 都心から離れた自然豊かなシェアハウスです。女性推奨。ゆるギーク。自転車置き場、駐車場あり。内見・お試し宿泊可。
