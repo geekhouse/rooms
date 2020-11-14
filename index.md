@@ -73,7 +73,7 @@
 - [<font color="red"> NEW! </font>] <a href="https://house.areph.me/geekurayama">ギークハウス大倉山</a> [東急東横線] 大倉山駅徒歩2分。渋谷駅まで30分/横浜駅まで15分。IoTや設備の充実度を上げています。個室/ドミトリーあり。男女問わず募集中。
 
 #### 千葉
-- <a href="https://geetakanomori.github.io/">ギークハウス流山おおたかの森</a> [つくばエクスプレス線][東武野田線] 男子ドミトリー募集中。2018年7月オープン。都心からあまり離れずに家賃+共益費3万円。古くて小さい家ですがDIYリフォームで内装は綺麗で住みやすくなっています。 <a href="https://twitter.com/geetakanomori" title="geetakanomori">[ twitter ]</a>
+- <a href="https://geetakanomori.github.io/">ギークハウス流山おおたかの森</a> [つくばエクスプレス線][東武野田線] 男子ドミトリー・個室募集中。2018年7月オープン。都心からあまり離れずにドミトリー2万円〜個室3.6万円（+共益費）。古くて小さい家ですがDIYリフォームで内装は綺麗で住みやすくなっています。 <a href="https://twitter.com/geetakanomori" title="geetakanomori">[ twitter ]</a>
 - [<font color="Red"> NEW! </font>] <a href="http://4hacker.github.io/hackerhouse/">ギークハウス大網白里 2nd Season</a> #ときさば系 “alias hackerhouse” （男女ドミトリー募集、自転車可、外国人可）。テント可、駐車場あり住民1台まで無料 <a href="https://www.facebook.com/tokisaba/" title="tokisaba">[ facebook ]</a>
 
 ## 満室もしくは状況不明
