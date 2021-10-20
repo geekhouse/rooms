@@ -56,7 +56,7 @@
 - <a href="https://colish.net/concepts/1314">ギークハウス川崎</a> JR川崎駅徒歩5分。入居者募集中！毎週日曜日には定期勉強会を開催しており、現在はRasberryPiにより家具制御を行っております。 <a href="https://www.facebook.com/mitsuhiro.sugano" title="mitsuhiro.sugano">[ facebook ]</a>
 - <a href="https://geek-house-yokohama.webnode.jp/">ギークハウス横浜</a> JR横浜駅西口から徒歩圏内。男子ドミトリー募集中。田舎の実家みたいにくつろげる家&起業家アジトがコンセプト。 <a href="https://twitter.com/geek_yokohama" title="geek_yokohama">[ twitter ]</a> <a href="https://www.facebook.com/geek.house.yokohama/" title="geek.house.yokohama">[ facebook ]</a>
 - <a href="https://geekhouse.effy.jp/geekmrk.html">ギークハウス新丸子</a> #effy系 [東急東横線][東急目黒線] 新丸子駅徒歩7分。男子ドミトリー募集中。自称日本一起業家輩出を目指すギークハウス。もくもく作業できるもくもく部屋あり。最寄り駅は新丸子と武蔵小杉。
-- [<font color="red"> NEW! </font>] <a href="https://house.areph.me/geekurayama">ギークハウス大倉山</a> [東急東横線] 大倉山駅徒歩2分。渋谷駅まで30分/横浜駅まで15分。IoTや設備の充実度を上げています。個室/ドミトリーあり。男女問わず募集中。
+- <a href="https://house.areph.me/geekurayama">ギークハウス大倉山</a> [東急東横線] 大倉山駅徒歩2分。渋谷駅まで30分/横浜駅まで15分。IoTや設備の充実度を上げています。個室/ドミトリーあり。男女問わず募集中。
 
 #### 千葉
 - <a href="https://geetakanomori.github.io/">ギークハウス流山おおたかの森</a> [つくばエクスプレス線][東武野田線] 男子ドミトリー・個室募集中。2018年7月オープン。都心からあまり離れずにドミトリー2万円〜個室3.6万円（+共益費）。古くて小さい家ですがDIYリフォームで内装は綺麗で住みやすくなっています。 <a href="https://twitter.com/geetakanomori" title="geetakanomori">[ twitter ]</a>
