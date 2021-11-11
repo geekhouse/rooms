@@ -5,7 +5,7 @@
 ## 募集中
 
 ### 今週のおすすめギークハウス
-- [<font color="red"> NEW! </font>] <a href="https://samugari.com/house/inquiry/">ギークハウスナハ(さむがりハウス)</a> 2021年新規OPEN！美栄橋駅から徒歩6分、海辺まで徒歩3分。冬は暖かくて、春は花粉がナイですよ。夏は海がキレイ。ドミ3万円・個室4万円。男女とも住人募集中！
+- [<font color="red"> NEW! </font>] <a href="https://samugari.com/house/inquiry/">ギークハウスナハ(さむがりハウス)</a> 2021年新規OPEN！美栄橋駅から徒歩6分、海辺まで徒歩3分。冬は暖かくて、春は花粉がナイですよ。夏は海がキレイ。ドミ3万円・個室4万円。男女とも住人募集中！<a href="https://twitter.com/geek_naha" title="geek_naha">[ twitter ]</a> <a href="https://www.facebook.com/samu.house" title="samu.house">[ facebook ]</a>
 
 
 ### 日本国外
