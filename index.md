@@ -1,10 +1,10 @@
 <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/t/tomoya/20111218/20111218111732.jpg" height="400" />
 
-現在、以下のギークハウスで入居者を募集しています。入居希望、見学希望などの詳細については、各ギークハウスのページからそれぞれのハウスの管理者の方にお問い合わせください。（2021/10/20 更新）
+現在、以下のギークハウスで入居者を募集しています。入居希望、見学希望などの詳細については、各ギークハウスのページからそれぞれのハウスの管理者の方にお問い合わせください。（2022/02/07 更新）
 
 ## 募集中
 
-### 今週のおすすめギークハウス
+### 注目のギークハウス
 - [<font color="red"> NEW! </font>] <a href="https://samugari.com/house/inquiry/">ギークハウスナハ(さむがりハウス)</a> 2021年新規OPEN！美栄橋駅から徒歩6分、海辺まで徒歩3分。冬は暖かくて、春は花粉がナイですよ。夏は海がキレイ。ドミ3万円・個室4万円。男女とも住人募集中！
 
 
@@ -27,7 +27,6 @@
 - <a href="https://twitter.com/setoshi66">ギークハウス名古屋2</a> JR名古屋駅徒歩10分。オープン感のぎーなご2。<a href="https://twitter.com/setoshi66" title="setoshi66">[ twitter ]</a>
 - <a href="https://twitter.com/house_seikatsu">ギークハウス生活</a> 名古屋市中村区烏森駅徒歩2分。家賃3万円初期費用なし。食事付き、米と卵食べ放題、NURO光回線、業務用中華厨房 <a href="https://twitter.com/house_seikatsu" title="house_seikatsu">[ twitter ]</a>
 - <a href="https://geehiro.jimdo.com/">ギークハウス広島</a> 広島県三原市久井町。お祭りイベントや音楽イベント、ぎーひろ農園を使った農業体験など様々なイベントを開催しています。 <a href="https://twitter.com/GeekHiroshima" title="GeekHiroshima">[ twitter ]</a> <a href="https://www.facebook.com/GeekhouseHiroshima" title="GeekhouseHiroshima">[ facebook ]</a>
-- <a href="https://geek-house-matsue.github.io/">ギークハウス松江</a> 2018年7月オープン。島根県松江市。Matzが来るかも!? <a href="https://www.facebook.com/%E3%82%AE%E3%83%BC%E3%82%AF%E3%83%8F%E3%82%A6%E3%82%B9%E6%9D%BE%E6%B1%9F-2467714756588990/">[ facebook ]</a>
 - <a href="http://geek-is.me/">ギークハウス藍住</a> 四国初のギークハウス。徳島県藍住町。ギークハウスでは珍しい管理人のお母さんの承認制を採用しております。 <a href="https://twitter.com/geezumi" title="geezumi">[ twitter ]</a> <a href="https://www.facebook.com/geezumi/" title="https://www.facebook.com/geezumi/">[ facebook ]</a> 
 - <a href="https://blog.geekhouse.okinawa/">ギークハウス沖縄</a> 沖縄県沖縄市。リノベーション・DIYのギークハウス。沖縄最速のインターネットあり。家賃3万円 <a href="https://twitter.com/geeoki" title="geeoki">[ twitter ]</a> <a href="https://www.facebook.com/geeoki/" title="geeoki">[ facebook ]</a>
 - [<font color="red"> NEW! </font>] <a href="https://samugari.com/house/inquiry/">ギークハウスナハ(さむがりハウス)</a> 2021年新規OPEN！美栄橋駅から徒歩6分、海辺まで徒歩3分。冬は暖かくて、春は花粉がナイですよ。夏は海がキレイ。ドミ3万円・個室4万円。男女とも住人募集中！
@@ -46,8 +45,6 @@
 
 #### 西東京
 - <a href="http://4hacker.github.io/hackerhouse/">ギークハウス新宿</a> #ときさば系 “alias hackerhouse” （男女ドミトリー募集、自転車可、外国人可）テレビ部屋、作業部屋あり。 [ <a href="https://www.facebook.com/GeekHouseTokisaba/" title="tokisaba"> facebook </a>][ <a href="https://twitter.com/tokisaba" title="tokisaba"> tokisaba </a>]
-- <a href="http://4hacker.github.io/hackerhouse/">ギークハウス新宿四ツ谷</a> #ときさば系 “alias hackerhouse” 7LDK。（男女ドミトリー募集、自転車可、外国人可）20畳くらいの広いリビング、バーカウンター、作業部屋x2あり。日本一オシャレなギークハウスを目指す。[ <a href="https://www.facebook.com/GeekHouseTokisaba/" title="tokisaba"> facebook </a>][ <a href="https://twitter.com/tokisaba" title="tokisaba"> tokisaba </a>]
-- <a href="https://geek-nakame.medium.com/">ギークリバ邸ハウス中目黒</a> [東横線][山手線] （個室、ドミトリープラン有）渋谷、恵比寿、五反田など自転車通勤がしやすい。 <a href="https://twitter.com/geek_nakame" title="geek_nakame">[ twitter ]</a>
 - <a href="https://sites.google.com/view/geekhousehachiouji/">ギークハウス八王子</a> 八王子駅徒歩15分。現在ドミトリー1名募集中。 <a href="https://twitter.com/geekhouse8ouji" title="geekhouse8ouji">[ twitter ]</a>
 - <a href="https://geekhouse.effy.jp/geekogi.html">ギークハウス荻窪</a> #effy系 [中央線][丸ノ内線][東西線] 荻窪駅徒歩13分。無垢板の作業部屋あり。DIYいろいろと捗ってます。男子ドミトリー募集中。
 - <a href="https://twitter.com/geegota">ギークハウス五反田・大崎</a> <a href="https://twitter.com/geegota" title="geegota">[ twitter ]</a>
@@ -75,6 +72,9 @@
 - <a href="https://www.geeklibrary.jp/">ギークライブラリー秋葉原</a> 秋葉原駅徒歩1分にプログラマー向け自習室「ギークライブラリー」爆誕！ <a href="https://www.facebook.com/geeklibrary.jp/" title="geeklibrary.jp">[ facebook ]</a>
 
 ## 閉鎖
+- <a href="http://4hacker.github.io/hackerhouse/">ギークハウス新宿四ツ谷</a> #ときさば系 “alias hackerhouse” 7LDK。（男女ドミトリー募集、自転車可、外国人可）20畳くらいの広いリビング、バーカウンター、作業部屋x2あり。日本一オシャレなギークハウスを目指す。[ <a href="https://www.facebook.com/GeekHouseTokisaba/" title="tokisaba"> facebook </a>][ <a href="https://twitter.com/tokisaba" title="tokisaba"> tokisaba </a>]
+- <a href="https://geek-nakame.medium.com/">ギークリバ邸ハウス中目黒</a> [東横線][山手線] （個室、ドミトリープラン有）渋谷、恵比寿、五反田など自転車通勤がしやすい。 <a href="https://twitter.com/geek_nakame" title="geek_nakame">[ twitter ]</a>
+- <a href="https://geek-house-matsue.github.io/">ギークハウス松江</a> 2018年7月オープン。島根県松江市。Matzが来るかも!? <a href="https://www.facebook.com/%E3%82%AE%E3%83%BC%E3%82%AF%E3%83%8F%E3%82%A6%E3%82%B9%E6%9D%BE%E6%B1%9F-2467714756588990/">[ facebook ]</a>
 - <a href="http://www.sharespacesola.com/posts/2601811">ギークハウス箕輪@長野</a> 段々と時代から取り残されていく農村を、新しい発想と技術で再発明し、これまでとは違う楽しい農村での暮らし方を作っていきたいと思っています。
 - <a href="http://geekhouse.tumblr.com/post/113088272124/jiyugaoka">ギークハウス自由ヶ丘</a> [東急大井町線] 渋谷まで15分。もくもく部屋（共有作業スペース）もあります
 - <a href="http://4hacker.github.io/hackerhouse/">HackerSpace神田秋葉原</a>  #ときさば系 （コワーキングメンバー募集） <a href="https://twitter.com/tokisaba" title="tokisaba">twitter</a>
