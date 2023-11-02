@@ -5,7 +5,7 @@
 ## 募集中
 
 ### 注目のギークハウス
-- [<font color="red"> NEW! </font>] <a href="http://4hacker.github.io/hackerhouse/"></a>NEWギークハウス新宿（仮）：名称を変えて2023年11月にリニューアル！駅近で便利。住人は現役エンジニア多め。【JR新宿駅南口から徒歩7分】【JR＆大江戸線代々木駅から歩いて8分】【小田急線南新宿駅から4分】【都営新宿線から歩いて5分】 4階建て一軒家型ハウス “alias hackerhouse” （男女ドミトリー募集、ゲスト用個室あり、自転車可、外国人可）テレビ部屋、作業部屋あり。<a href="https://twitter.com/geejuku" title="ギークハウス新宿">[ X（Twitter）]</a>
+- [<font color="red"> NEW! </font>]<a href="http://4hacker.github.io/hackerhouse/">NEWギークハウス新宿（仮）</a>名称を変えて2023年11月にリニューアル！駅近で便利。住人は現役エンジニア多め。【JR新宿駅南口から徒歩7分】【JR＆大江戸線代々木駅から歩いて8分】【小田急線南新宿駅から4分】【都営新宿線から歩いて5分】 4階建て一軒家型ハウス “alias hackerhouse” （男女ドミトリー募集、ゲスト用個室あり、自転車可、外国人可）テレビ部屋、作業部屋あり。<a href="https://twitter.com/geejuku" title="ギークハウス新宿">[ X（Twitter）]</a>
 - [<font color="red"> NEW! </font>] <a href="https://samugari.com/house/inquiry/">ギークハウスナハ(さむがりハウス)</a> 2021年新規OPEN！美栄橋駅から徒歩6分、海辺まで徒歩3分。冬は暖かくて、春は花粉がナイですよ。夏は海がキレイ。ドミ3万円・個室4万円。男女とも住人募集中！
 
 
